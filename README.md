@@ -37,6 +37,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 ## How to Connect
 
 Happy to connect here on GitHub!
+LinkedIn:
 [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
 
 
