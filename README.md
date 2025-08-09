@@ -1,6 +1,6 @@
 What I am doing here:
 
-# ☕️ Hi, I’m Patricia 👋
+# 🌱 Hi, I’m Patricia, Agent Architect 🕵️‍♀️🔎
 
 **Education Specialist | AI Safety Annotator | Non-Practicing Psychologist**  
 _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
@@ -31,6 +31,12 @@ I’m an early adopter of computers and the internet, always curious about the i
 - **Model Design** – Crafting user-centered AI models  
 - **Prompt Design** – Exploring the art and science of communicating with LLMs  
 - **Multidisciplinary LLM Work** – Bridging tech, linguistics, and psychology to create end-user value
+
+---
+
+## My Approach
+
+I work deliberately with models designed for the end user—not AGI. Most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
 ---
 
