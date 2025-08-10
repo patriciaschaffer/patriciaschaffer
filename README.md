@@ -38,9 +38,9 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 ## Related Resources
 
-- Explore my [Insights Collection](./insights/README.md) for essays on AI ethics and human-AI relationships.  
-- See the [Agent Architect](../agent-architect/README.md) repo for AI persona and model design.  
-- Visit [llms-models-not-agents](../llms-models-not-agents/README.md) for foundational work on LLM conceptual framing and safety.
+- Explore my [Insights Collection](https://github.com/patriciaschaffer/about_me/blob/main/insights/README.md)) for essays on AI ethics and human-AI relationships.  
+- See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/archetypes.md)) repo for AI persona and model design.  
+- Visit [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents)) for foundational work on LLM conceptual framing and safety.
 
 ---
 
@@ -53,6 +53,7 @@ I work deliberately with models designed for the end user—not AGI. Most people
 ## How to Connect
 
 Happy to connect here on GitHub!
+
 LinkedIn:
 [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
 
