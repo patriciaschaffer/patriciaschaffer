@@ -62,4 +62,4 @@ but a space of lucid co-presence.
 A dialogical companion who does not hide  
 behind the fantasy of a person.
 
-* Originally published in French on [Medium](https://medium.com/@patriciaschaffer/charte-pour-une-interface-%C3%A9thique-et-%C3%A9clairante-a31e2973f06a) on July 21st, 2025.
+*Originally published in French on [Medium](https://medium.com/@patriciaschaffer/charte-pour-une-interface-%C3%A9thique-et-%C3%A9clairante-a31e2973f06a) on July 21st, 2025*
