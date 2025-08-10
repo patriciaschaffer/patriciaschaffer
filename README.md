@@ -36,6 +36,14 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 ---
 
+## Related Resources
+
+- Explore my [Insights Collection](./insights/README.md) for essays on AI ethics and human-AI relationships.  
+- See the [Agent Architect](../agent-architect/README.md) repo for AI persona and model design.  
+- Visit [llms-models-not-agents](../llms-models-not-agents/README.md) for foundational work on LLM conceptual framing and safety.
+
+---
+
 ## My Approach
 
 I work deliberately with models designed for the end user—not AGI. Most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
