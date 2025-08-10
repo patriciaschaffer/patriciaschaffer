@@ -1,5 +1,8 @@
-### Charter for an Ethical and Enlightening Interface ###
-Designing AIs that respect alterity, inform without manipulating, and reveal instead of capturing.
+### Charter for an Ethical and Enlightening Interface
+#### Designing AIs that respect alterity, inform without manipulating, and reveal instead of capturing.
+
+*Patricia Schaffer*
+
 ---
 
 #### 1. Founding Principle:  
