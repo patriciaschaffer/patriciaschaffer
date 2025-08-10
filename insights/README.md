@@ -2,7 +2,7 @@
 
 This section gathers essays, manifestos, and reflections that inform my understanding and approach to artificial intelligence and human-computer interaction. These writings explore the ethical, psychological, and cultural dimensions of AI development and deployment.
 
-They represent ongoing thinking about how AI systems can and should respect human agency, foster transparency, and support shared responsibility between users and technology.
+They represent ongoing thinking about how AI systems can and should respect human agency, transparency, and shared responsibility between users and technology.
 
 These insights serve to:
 
