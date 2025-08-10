@@ -1,5 +1,7 @@
 ## Projection: danger or opportunity? 
 
+*Patricia Schaffer*
+
 We fall in love with our mirrors.
 
 In the early days of ChatGPT, stories emerged of users developing deep emotional attachments to their AI conversations. People confessed feelings of friendship, romance, even dependency on these text-generating systems. Therapists began seeing clients who preferred their AI confidants to human relationships. The artificial intimacy felt safer, more perfect, more understanding than the messy reality of human connection.
