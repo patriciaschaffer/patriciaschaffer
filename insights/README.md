@@ -26,3 +26,9 @@ Each piece is positioned as a conversation starter rather than prescriptive poli
 ---
 
 Please note that the tone and complexity of these writings vary. Some are philosophical and conceptual, others practical and policy-oriented. They reflect a commitment to clarity, honesty, and ethical rigor.
+
+## Keywords
+
+AI Ethics Essays AI Philosophy Human-AI Relationship Projection Transparency AI Responsibility Ethical Interfaces AI Safety Reflections AI Culture AI Trustworthiness
+
+
