@@ -18,11 +18,13 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 ## Skills & Interests
 
-- **Natural Languages** (human & a bit of Python!)
+- **Natural Languages** (human & basic Python programming!)
 - **AI Safety & Model Design**
 - **Linguistics & Pragmatics**
 - **Tech Curiosity & Early Adoption**
 - **Human Behaviour Insights**
+- **Human-Centered AI Design**
+- **Ethical AI** 
 
 ---
 
