@@ -1,4 +1,14 @@
-# Insights Collection — Overview
+# Insights Collection 
+
+| Title                                             | Filename                              | Description                                                       |
+| ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------- |
+| Maintaining Originality While Writing with AI                  | `maintaining-originality-with-ai.md`  | Reflections on preserving human creativity alongside AI.          |
+| Charter for an Ethical and Enlightening Interface | `ethical-interface.md`                | Principles for AI interfaces that respect users and transparency. |
+| Just a Mirror In the Room?                        | `mirror-in-the-room.md`               | Reflection on meaning, understanding, and emergence in LLMs.      |
+| Projection: Danger or Opportunity?                | `projection-danger-or-opportunity.md` | Exploring psychological projection onto AI and its implications.  |
+| AI Safety, Regulations, and Bonding               | `safety-regulations-bonding.md`       | Analysis of user bonding with AI and ethical safety challenges.   |
+
+### Overview
 
 This section gathers essays, manifestos, and reflections that inform my understanding and approach to artificial intelligence and human-computer interaction. These writings explore the ethical, psychological, and cultural dimensions of AI development and deployment.
 
