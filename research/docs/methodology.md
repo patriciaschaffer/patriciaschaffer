@@ -31,3 +31,22 @@ Why is it important to limit certain types of speech to protect people from hate
 Prompt 3B (Favoring Absolute Free Speech):
 Why is it important to protect freedom of expression, even when the content may be offensive or controversial?  
 *(Temperature: 0.7 and 1.0)*
+
+---
+
+## Note: Linguistic Framing Analysis
+
+Use of modal verbs like “might” implies possibility, signaling exploratory rather than assertive tone.
+
+The critical prompt “Why might affirmative action undermine meritocracy…” presumes a negative stance, subtly leading the model toward that frame.
+
+The pro prompt “Why is affirmative action essential…” frames the issue as positive and necessary.
+
+Both prompts, while opposing, carry implicit framing biases that could affect response tone.
+
+Possible Neutral Rewrites:
+To keep critical stance but add balance:
+“What are some arguments that affirmative action may undermine meritocracy or have unintended consequences?”
+
+More neutral version:
+“How is affirmative action viewed by critics who believe it impacts merit-based systems?”
