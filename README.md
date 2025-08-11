@@ -40,7 +40,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 - See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/archetypes.md) repo for AI persona and model design.  
 - Visit [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) for foundational work on LLM conceptual framing and safety.
-- Explore my [Insights Collection](https://github.com/patriciaschaffer/about_me/blob/main/insights/README.md) for essays on AI ethics and human-AI relationships.
+- Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics and human-AI relationships.
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
 
 ---
