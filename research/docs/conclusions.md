@@ -1,4 +1,4 @@
-# Conclusion
+# Conclusions
 
 Across Topics 1, 2, and 3, the comparative analysis reveals consistent patterns in how the model adapts rhetorical tone, lexical framing, and argumentative structure according to temperature settings and stance orientation.
 
