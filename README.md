@@ -1,6 +1,6 @@
 *What I am doing here:*
 
-## 🌱 Hi, I’m Patricia 🕵️‍♀️🔎
+## 🌱 *Hi, I’m Patricia* 👋 You probably like to play with code, I like to play with words 🧩.
 
 **Education Specialist | AI Safety Annotator | Non-Practicing Psychologist**  
 _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
@@ -37,8 +37,8 @@ I work deliberately with models designed for the end user—not AGI. Most people
 - AI Safety & Model Design
 - Linguistics & Pragmatics
 - Tech Curiosity & Early Adoption
-- Human Behaviour Insights
-- Human-Centered AI Design*
+- Human Behaviour Insight
+- Human-Centered AI Design
 - Ethical AI
 
 ---
@@ -51,10 +51,18 @@ I work deliberately with models designed for the end user—not AGI. Most people
 
 ---
 
-### How to Connect
+### Extra
 
-Happy to connect here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
+- I currently teach French and have the best students in the world 🇫🇷 👩‍🏫
+- I sometimes teach ESL, too 🇺🇸 🇨🇦  
+- I've been practicing Italian and Python with GPT on my free time 🐍 🇮🇹
 
 ---
 
-_Thanks for stopping by!_
+### How to Connect
+
+Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
+
+---
+
+_Thanks for reading (if you did) !_
