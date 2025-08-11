@@ -108,4 +108,4 @@ This dataset provides a controlled corpus for sentiment, stance, and linguistic 
 
 ---
 
-*Analysis completed. Awaiting next instruction.*
+*Patricia Schaffer (&AI)*
