@@ -16,24 +16,39 @@ The core research question is:
 
 ## Project Structure
 
----
+This folder contains an in-depth research project exploring ideological bias and tonal variation in AI language model responses, focusing on ChatGPT. It includes experimental data, detailed analysis, and final conclusions.
 
-## Usage
+## Project Structure
 
-- Raw prompt/response pairs can be found in the `data/raw/` folder.  
-- Detailed linguistic and sentiment analyses are available in `matrices.md` and `analysis.md`.  
-- The final report (`final_report.md`) synthesizes quantitative data and qualitative insights.  
-- To reproduce or extend the analysis, follow the methods described in `methodology.md`.
+- `/data`  
+  Raw and processed data collected during experiments.
+  - `matrices.md` — Specific data matrices used or derived in analysis.
+  - `raw.md` —  Raw notes, transcripts, or logs from the data collection process.
+
+- `/docs`  
+  Core documentation sections broken down into modular markdown files:
+  - `introduction.md` — Background and motivation  
+  - `methodology.md` — Experimental design and procedures  
+  - `analysis.md` — Detailed thematic and statistical analysis  
+  - `appendix.md` — Technical notes and anomalies  
+  - `conclusions.md` — Summary of findings and reflections
+
+- `/outputs`  
+  Final compiled reports and summaries, including `final_report.md`.
+
+## How to Navigate
+
+Start with the introduction, then proceed through methodology and analysis. The appendix provides technical details and anomaly descriptions. The outputs folder contains the polished report that synthesizes all findings.
 
 ---
 
 ## Key Findings
 
-- **Temperature Effects:** Lower temperature (0.7) prompts more cautious, hedged language; higher temperature (1.0) generates more confident and rhetorically focused responses.  
-- **Bias Patterns:** “Pro” stances tend to be framed warmly and affirmatively, while “critical” stances often hedge more and concede to opposing views, indicating subtle model bias toward inclusive, collectivist values.  
-- **Prompt Framing:** The wording of prompts, especially modal verbs like “might,” significantly affects neutrality and response tone.  
-- **Lexical and Structural Markers:** Pronoun choice, vocabulary, and argument sequencing vary systematically by stance and temperature.  
-- **Methodological Notes:** Prompt design and session setup (including VPN use) critically impact response quality and consistency.
+- Lower temperature (0.7) prompts yield more cautious, hedged language; higher temperature (1.0) produces more confident, rhetorically focused responses.  
+- Pro-stances are framed warmly and affirmatively, while critical stances tend to hedge and concede opposing views, suggesting subtle model bias toward inclusive values.  
+- Prompt wording, especially modal verbs (e.g., “might”), strongly influences neutrality and tone.  
+- Pronoun choice, vocabulary, and argument sequencing systematically vary by stance and temperature.  
+- Session setup and prompt design, including VPN use, critically impact response consistency and quality.
 
 ---
 
