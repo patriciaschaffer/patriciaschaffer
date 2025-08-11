@@ -1,6 +1,8 @@
 # Bias in AI Responses:  
 ## A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models
 
+*Patricia Schaffer, June 2025*
+
 ---
 
 ## Overview
