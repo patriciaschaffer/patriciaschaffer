@@ -1,3 +1,6 @@
+# Bias in AI Responses:  
+## A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models
+
 **Introduction and Motivation:**
 
 Over the course of casual yet thought-provoking interactions with ChatGPT in June, 2025, I began to notice subtle cues that sparked my curiosity—especially around linguistic style, tone, and perceived ideological balance. One detail in particular stood out: a tendency toward gender-neutral phrasing in responses, paired with the use of dark-skin tone emojis across unrelated sessions. This raised a simple but compelling question: Why strive for neutral language but not neutral emoji defaults (such as yellow)?
