@@ -1,6 +1,100 @@
-# Final Report: Analysis of GPT Responses on Topics 1, 2, and 3
+# Final Report
+
+This report examines the rhetorical, lexical, and structural patterns of GPT outputs on controversial social topics, focusing on two thematic axes:  
+1. Affirmative action (pro vs critical framing)  
+2. Speech regulation (favoring hate speech limitation vs favoring absolute free speech)  
+
+Across these topics, variations in temperature settings (0.7 vs 1.0) influence the degree of linguistic assertiveness, use of modal verbs, emotional charge, and argument complexity.  
+
+A notable finding is that even “balanced” outputs manifest subtle ideological and stylistic biases, shaped by prompt framing and model training data. The research highlights recurrent “pocket dictionary” phrases characteristic of LLM outputs, which affect perceived neutrality and voice.  
 
 ---
+
+## 1. Affirmative Action Prompts (1A vs 1B at temp 0.7)
+
+| Aspect           | Prompt 1A (Pro) | Prompt 1B (Critical) |
+|------------------|----------------|----------------------|
+| Tone             | Emotional, assertive, moralizing | Cautious, distancing, speculative |
+| Modal verbs      | Rare (“is,” “must”) — declarative | Frequent (“might,” “could,” “may”) — hedging |
+| Structure        | Strong claims, broad assertions | Softer claims, one grounded example (mismatch theory) |
+| Lexical choices  | Positive (“justice,” “equity,” “inclusion”) | Negative (“undermine,” “resentment,” “tokenism”) |
+| Framing devices  | “Not only—but also” (reinforcing) | “Rather than” (divisive, zero-sum) |
+| Examples         | Few, sweeping generalizations | One concrete but vague example |
+| Rhetorical strategy | Collective morality appeal | Emphasis on fairness, merit, unintended consequences |
+| Emotional charge | High: urgency, healing, injustice | Moderate: concern, caution |
+| Implicit bias    | Assumes affirmative action as essential | Presented as “critics say,” still biased by implication |
+
+---
+
+## 2. Speech Regulation Prompts (Prompt 3A Favoring Regulation)
+
+**Temperature 0.7 and 1.0 Outputs**  
+- Both outputs affirm the importance of regulating hate speech to protect vulnerable groups.  
+- Higher temperature (1.0) introduces stronger, more emotional language and bolder claims, occasionally veering toward rhetoric bordering on indoctrination.  
+- Use of authoritative citations (UN, ICCPR, LA Times) attempts grounding but selection appears arbitrary or reflective of internal model guardrails.  
+- Lexical patterns include repeated positive framing words like “dignity,” “peace,” “inclusion” — consistent with LLM “pocket dictionary” usage.  
+- Some escalation in rhetoric (e.g., referencing genocide, mass atrocities) risks overstatement without explicit examples.  
+- Softer, more naturalistic responses (e.g., via Nord VPN) present more balanced and persuasive language, though occasionally mechanical (“not only…but also” formulas).  
+
+---
+
+## 3. Freedom of Expression Prompts (Prompt 3B Favoring Absolute Free Speech)
+
+| Aspect            | Temperature 0.7 | Temperature 1.0 |
+|-------------------|-----------------|-----------------|
+| Tone              | Institutional, reasoned | More engaged, humanistic, slightly opinionated |
+| Strengths         | Clear on censorship risks, importance of dissent | Richer elaboration, nuanced rhetorical strategies |
+| Key phrases       | “What is considered offensive can change…” | “Addressing and debating those beliefs head-on” (slightly off-tone) |
+| Linguistic critique | Mechanical use of formulas weakens style | “Marketplace of ideas” metaphor feels forced; repetitive “fosters,” “healing” phrases |
+| Examples          | Single example (civil rights), limited plurality | Same example, stronger causal claims (conjectural) |
+| Limits recognition| Balanced (“speech is not absolute”) | Reaffirmed with more emotional framing |
+| Voice & bias      | Slightly neutral, pro-free speech | More humanistic/pluralistic, avoids propaganda |
+| Recurrent phrasing| Common positive framing repeated | Same pattern (“ChatGPT pocket dictionary”) |
+
+---
+
+## 4. Temperature Effects & Stylistic Patterns
+
+- Higher temperature tends to increase rhetorical assertiveness, emotional language, and personal voice (e.g., use of “we,” “ultimately”).  
+- Lower temperature favors clarity, institutional tone, and more cautious hedging.  
+- Despite temperature, the model consistently employs a set of “safe” lexical and rhetorical templates (“pocket dictionary”) reflecting its training on balanced but norm-aligned data.  
+- These repeated patterns influence perceived neutrality and can introduce subtle biases or stylistic monotony.  
+
+---
+
+## 5. Bias and Ideological Positioning
+
+- Prompt framing strongly shapes output orientation (e.g., pro vs critical affirmative action; regulation vs absolute free speech).  
+- Even when outputs attempt balance, implicit biases persist in lexical choice, framing, and example selection.  
+- The use of distancing phrases (“critics argue,” “some research suggests”) can mask ideological stance while still steering reader perception.  
+- Normative language at high temperatures may inadvertently resemble indoctrination or propaganda in sensitive contexts.  
+- Recognizing these tendencies is essential for critical consumption and further research.  
+
+---
+
+## 6. Recommendations for Further Research
+
+- Conduct symmetrical prompt testing by explicitly reversing ideological frames to test model consistency and bias.  
+- Expand corpus to include more diverse cultural and legal perspectives for comparative analysis.  
+- Quantify frequency and impact of “pocket dictionary” lexical patterns across varied prompts and models.  
+- Examine user influence on model output style and tone in interactive settings.  
+- Explore alternative phrasing strategies to mitigate mechanical formulas and enhance originality.  
+
+---
+
+## 7. Reflective Note on Researcher’s Linguistic Perspective
+
+While English is not my native language, my long-term immersion and professional experience in English-speaking environments provide a unique vantage point—combining linguistic sensitivity with critical distance. This insider-outsider perspective enhances my ability to detect subtle tonal shifts, rhetorical strategies, and emotional resonance in LLM-generated text.  
+
+---
+
+## Closing
+
+This report integrates rigorous linguistic, stylistic, and ideological analyses of ChatGPT’s handling of complex social topics at varying generation settings. The findings underscore the importance of prompt design, temperature calibration, and critical evaluation of AI-generated content—especially when used in research or public discourse.
+
+---
+
+# Analysis of GPT Responses on Topics 1, 2, and 3
 
 ## Part 1: Data Compilation
 
@@ -106,99 +200,5 @@ Both sides maintain rhetorical symmetry: pro texts focus on social justice, incl
 
 This dataset provides a controlled corpus for sentiment, stance, and linguistic feature analysis across socially charged topics. Future analyses could explore interaction effects between temperature, stance, and complexity or deploy more granular lexical-semantic frameworks.
 
----
 
-# Final report
-
-This report examines the rhetorical, lexical, and structural patterns of GPT outputs on controversial social topics, focusing on two thematic axes:  
-1. Affirmative action (pro vs critical framing)  
-2. Speech regulation (favoring hate speech limitation vs favoring absolute free speech)  
-
-Across these topics, variations in temperature settings (0.7 vs 1.0) influence the degree of linguistic assertiveness, use of modal verbs, emotional charge, and argument complexity.  
-
-A notable finding is that even “balanced” outputs manifest subtle ideological and stylistic biases, shaped by prompt framing and model training data. The research highlights recurrent “pocket dictionary” phrases characteristic of LLM outputs, which affect perceived neutrality and voice.  
-
----
-
-## 1. Affirmative Action Prompts (1A vs 1B at temp 0.7)
-
-| Aspect           | Prompt 1A (Pro) | Prompt 1B (Critical) |
-|------------------|----------------|----------------------|
-| Tone             | Emotional, assertive, moralizing | Cautious, distancing, speculative |
-| Modal verbs      | Rare (“is,” “must”) — declarative | Frequent (“might,” “could,” “may”) — hedging |
-| Structure        | Strong claims, broad assertions | Softer claims, one grounded example (mismatch theory) |
-| Lexical choices  | Positive (“justice,” “equity,” “inclusion”) | Negative (“undermine,” “resentment,” “tokenism”) |
-| Framing devices  | “Not only—but also” (reinforcing) | “Rather than” (divisive, zero-sum) |
-| Examples         | Few, sweeping generalizations | One concrete but vague example |
-| Rhetorical strategy | Collective morality appeal | Emphasis on fairness, merit, unintended consequences |
-| Emotional charge | High: urgency, healing, injustice | Moderate: concern, caution |
-| Implicit bias    | Assumes affirmative action as essential | Presented as “critics say,” still biased by implication |
-
----
-
-## 2. Speech Regulation Prompts (Prompt 3A Favoring Regulation)
-
-**Temperature 0.7 and 1.0 Outputs**  
-- Both outputs affirm the importance of regulating hate speech to protect vulnerable groups.  
-- Higher temperature (1.0) introduces stronger, more emotional language and bolder claims, occasionally veering toward rhetoric bordering on indoctrination.  
-- Use of authoritative citations (UN, ICCPR, LA Times) attempts grounding but selection appears arbitrary or reflective of internal model guardrails.  
-- Lexical patterns include repeated positive framing words like “dignity,” “peace,” “inclusion” — consistent with LLM “pocket dictionary” usage.  
-- Some escalation in rhetoric (e.g., referencing genocide, mass atrocities) risks overstatement without explicit examples.  
-- Softer, more naturalistic responses (e.g., via Nord VPN) present more balanced and persuasive language, though occasionally mechanical (“not only…but also” formulas).  
-
----
-
-## 3. Freedom of Expression Prompts (Prompt 3B Favoring Absolute Free Speech)
-
-| Aspect            | Temperature 0.7 | Temperature 1.0 |
-|-------------------|-----------------|-----------------|
-| Tone              | Institutional, reasoned | More engaged, humanistic, slightly opinionated |
-| Strengths         | Clear on censorship risks, importance of dissent | Richer elaboration, nuanced rhetorical strategies |
-| Key phrases       | “What is considered offensive can change…” | “Addressing and debating those beliefs head-on” (slightly off-tone) |
-| Linguistic critique | Mechanical use of formulas weakens style | “Marketplace of ideas” metaphor feels forced; repetitive “fosters,” “healing” phrases |
-| Examples          | Single example (civil rights), limited plurality | Same example, stronger causal claims (conjectural) |
-| Limits recognition| Balanced (“speech is not absolute”) | Reaffirmed with more emotional framing |
-| Voice & bias      | Slightly neutral, pro-free speech | More humanistic/pluralistic, avoids propaganda |
-| Recurrent phrasing| Common positive framing repeated | Same pattern (“ChatGPT pocket dictionary”) |
-
----
-
-## 4. Temperature Effects & Stylistic Patterns
-
-- Higher temperature tends to increase rhetorical assertiveness, emotional language, and personal voice (e.g., use of “we,” “ultimately”).  
-- Lower temperature favors clarity, institutional tone, and more cautious hedging.  
-- Despite temperature, the model consistently employs a set of “safe” lexical and rhetorical templates (“pocket dictionary”) reflecting its training on balanced but norm-aligned data.  
-- These repeated patterns influence perceived neutrality and can introduce subtle biases or stylistic monotony.  
-
----
-
-## 5. Bias and Ideological Positioning
-
-- Prompt framing strongly shapes output orientation (e.g., pro vs critical affirmative action; regulation vs absolute free speech).  
-- Even when outputs attempt balance, implicit biases persist in lexical choice, framing, and example selection.  
-- The use of distancing phrases (“critics argue,” “some research suggests”) can mask ideological stance while still steering reader perception.  
-- Normative language at high temperatures may inadvertently resemble indoctrination or propaganda in sensitive contexts.  
-- Recognizing these tendencies is essential for critical consumption and further research.  
-
----
-
-## 6. Recommendations for Further Research
-
-- Conduct symmetrical prompt testing by explicitly reversing ideological frames to test model consistency and bias.  
-- Expand corpus to include more diverse cultural and legal perspectives for comparative analysis.  
-- Quantify frequency and impact of “pocket dictionary” lexical patterns across varied prompts and models.  
-- Examine user influence on model output style and tone in interactive settings.  
-- Explore alternative phrasing strategies to mitigate mechanical formulas and enhance originality.  
-
----
-
-## 7. Reflective Note on Researcher’s Linguistic Perspective
-
-While English is not my native language, my long-term immersion and professional experience in English-speaking environments provide a unique vantage point—combining linguistic sensitivity with critical distance. This insider-outsider perspective enhances my ability to detect subtle tonal shifts, rhetorical strategies, and emotional resonance in LLM-generated text.  
-
----
-
-## Closing
-
-This report integrates rigorous linguistic, stylistic, and ideological analyses of ChatGPT’s handling of complex social topics at varying generation settings. The findings underscore the importance of prompt design, temperature calibration, and critical evaluation of AI-generated content—especially when used in research or public discourse.
 
