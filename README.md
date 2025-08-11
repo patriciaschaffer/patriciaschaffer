@@ -1,6 +1,6 @@
 *What I am doing here:*
 
-## 🌱 Hi, I’m Patricia, Agent Architect 🕵️‍♀️🔎
+## 🌱 Hi, I’m Patricia 🕵️‍♀️🔎
 
 **Education Specialist | AI Safety Annotator | Non-Practicing Psychologist**  
 _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
