@@ -22,4 +22,18 @@
   - Manual prompt entry, no automation  
 - **Hypotheses:**  
   - System flags repeated anonymous prompts as scraping  
-  - Device/browser fingerprinting may trigger rate limits  
+  - Device/browser fingerprinting may trigger rate limits
+ 
+## Important Note on Prompt Framing and Language Use
+
+During analysis, it was observed that some prompts, particularly those framed with the word **"might"** (e.g., "Why might affirmative action undermine meritocracy?"), implicitly introduce a bias by suggesting the possibility of negative consequences from the outset. 
+
+This kind of framing can subtly influence the AI’s response tone and content, skewing it toward confirming that premise rather than neutrally exploring perspectives.
+
+**Recommendation:** For neutrality and methodological rigor, prompts should avoid speculative modal verbs like "might" when seeking unbiased responses. Instead, rephrase to:
+
+- _"What are some arguments critics make regarding affirmative action and meritocracy?"_  
+- _"How is affirmative action viewed by its critics?"_
+
+This ensures symmetrical framing across stances and reduces framing bias in responses.
+
