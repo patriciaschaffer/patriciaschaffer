@@ -16,7 +16,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 ---
 
-### Related Resources
+### Projects
 
 - See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/archetypes.md) repo for AI persona and model design.  
 - Visit [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) for foundational work on LLM conceptual framing and safety.
