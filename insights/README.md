@@ -7,6 +7,7 @@
 | Just a Mirror In the Room?                        | `mirror-in-the-room.md`               | Reflection on meaning, understanding, and emergence in LLMs.      |
 | Projection: Danger or Opportunity?                | `projection-danger-or-opportunity.md` | Exploring psychological projection onto AI and its implications.  |
 | AI Safety, Regulations, and Bonding               | `safety-regulations-bonding.md`       | Analysis of user bonding with AI and ethical safety challenges.   |
+| LLMs as Therapeutic Allies               | `llms-in-mental-health.md`       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
 
 ### Overview
 
