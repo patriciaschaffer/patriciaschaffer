@@ -1,4 +1,4 @@
-## 🌱 *Hi, I’m Patricia* 👋 You probably like to play with code, I like to play with words 🧩.
+## 👋 *Hi, I’m Patricia* - You probably like to play with code, I like to play with words 🧩
 
 **Education Specialist | AI Safety Annotator | Non-Practicing Psychologist**  
 _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
