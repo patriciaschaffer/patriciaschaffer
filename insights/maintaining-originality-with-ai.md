@@ -1,5 +1,7 @@
 # Maintaining Originality While Writing with AI
 
+*Patricia Schaffer*
+
 As AI becomes more integrated into our creative processes, it is essential to rethink concepts of authorship, voice, and collaboration.  
 One of the greatest practical values GPT offers is its ability to help organize and shape our ideas, adapting them to the appropriate language register for the audience and purpose. Whether the desired tone is formal, informal, professional, or poetic, AI can assist in structuring sentences, selecting vocabulary, and ensuring coherence, preserving the author’s unique voice. This is not about AI “thinking” for us, but about supporting clearer communication through nuanced language adjustment.  
 When I engage with a language model like GPT, it doesn’t write for me. It helps me think more clearly and listen better to my own voice.  
