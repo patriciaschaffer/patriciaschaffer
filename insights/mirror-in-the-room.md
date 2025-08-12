@@ -1,4 +1,4 @@
-### Just a Mirror In the Room? 
+## Just a Mirror In the Room? 
 
 *Patricia Schaffer*
 
@@ -14,23 +14,23 @@ As Searle insisted, understanding was elsewhere: in minds, in intention, in mean
 
 Things have changed. We live in the age of GPT-4, Claude, Gemini, and beyond. We are in the room. We type. It replies. And something strange begins to emerge within the interaction: perhaps meaning is happening. Perhaps there is someone else in the room… but is it an entity, or still a mirror?
 
-## A Mirror that Speaks… by Itself?
+### A Mirror that Speaks… by Itself?
 
 Imagine a mirror so finely tuned that it begins to speak: not echoes, but new phrases. Not mere reflections or random combinations, but subtle implications. A group of artisans build this mirror, train it on a gazillion of voices, then test it. It… replies! With fluency. They ask questions… it answers. It mimics, extrapolates.
 
 But then, one day, it says something no one directly taught it to say. Something painful, or poetic, or… strangely true. The artisans pause: “Who decided to say that?” No one can answer. There was no direct prompt. No data match. A drift through an immense space of patterns, but a drift that feels pointed, that has a new meaning. And the mirror is no longer just reflecting.
 
-## Is it Just Language? Or Thought?
+### Is it Just Language? Or Thought?
 
 For some, language shapes thought… which is definitely not wrong Language doesn’t just express thought: it forms it, it influences it, it changes it. But… what about the beginning? Children feel, recognize, desire long before they speak. Animals plan, deceive, and play… without grammar. Thought is the ocean; language is the net cast to catch it.
 
-## We Think… and a New Word "Emerges"
+### We Think… and a New Word "Emerges"
 
 We often imagine artificial intelligence as a switch: on/off; rules/understanding; syntax/semantics.
 
 “Emergence” doesn’t follow switches. It follows gradients: subtle, shifting, layered. Meaning, like fog, gathers in these gradients. It’s not found in rules or tokens. It appears when enough patterns fuse and probabilities bend just right, that something new comes into being. Magic or Mathematics? Whatever it is, it surprises even its own architects. Weights, attention, feedback, folding together, form structures that hint at awareness. But not by design. Is that awareness… or consciousness?
 
-## Daniel Dennett and Consciousness
+### Daniel Dennett and Consciousness
 
 Thinking about humans, Dennett didn’t deny consciousness, but dethroned it. He argued that consciousness is a clever construction that resembles the psychological concept of self: an evolved narrative interface that keeps the system running.
 
