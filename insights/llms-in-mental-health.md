@@ -41,4 +41,4 @@ The most successful therapists will be those who master the art of human connect
 
 >The integration of LLMs into therapeutic practice represents an evolution, not a revolution—one that can strengthen, not replace the fundamental human connections that make healing possible.
 
-*This was my first collaborative writing with [Claude](https://claude.ai/).*
+*This was my first collaborative writing with [Claude](https://github.com/anthropics/).*
