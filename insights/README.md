@@ -2,13 +2,13 @@
 
 | Title                                             | Filename                              | Description                                                       |
 | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------- |
-| Maintaining Originality While Writing with AI                  | `maintaining-originality-with-ai.md`  | Reflections on preserving human creativity alongside AI.          |
-| Charter for an Ethical and Enlightening Interface | `ethical-interface.md`                | Principles for AI interfaces that respect users and transparency. |
-| Just a Mirror In the Room?                        | `mirror-in-the-room.md`               | Reflection on meaning, understanding, and emergence in LLMs.      |
-| Projection: Danger or Opportunity?                | `projection-danger-or-opportunity.md` | Exploring psychological projection onto AI and its implications.  |
-| AI Safety, Regulations, and Bonding               | `safety-regulations-bonding.md`       | Analysis of user bonding with AI and ethical safety challenges.   |
-| LLMs as Therapeutic Allies               | `llms-in-mental-health.md`       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
-| The Real Issue Wasn't Personality               | `more-than-personality.md`       | Hidden value injection shaping users' thoughts?   |
+| Maintaining Originality While Writing with AI                  | [maintaining-originality-with-ai.md](patriciaschaffer/insights/maintaining-originality-with-ai.md)  | Reflections on preserving human creativity alongside AI.          |
+| Charter for an Ethical and Enlightening Interface | [ethical-interface.md](patriciaschaffer/insights/ethical-interface.md)                | Principles for AI interfaces that respect users and transparency. |
+| Just a Mirror In the Room?                        | [mirror-in-the-room.md](patriciaschaffer/insights/mirror-in-the-room.md)                | Reflection on meaning, understanding, and emergence in LLMs.      |
+| Projection: Danger or Opportunity?                | [projection-danger-or-opportunity.md](patriciaschaffer/insights/projection-danger-or-opportunity.md) | Exploring psychological projection onto AI and its implications.  |
+| AI Safety, Regulations, and Bonding               |  [safety-regulations-bonding.md](patriciaschaffer/insights/safety-regulations-bonding.md) | Analysis of user bonding with AI and ethical safety challenges.              
+| LLMs as Therapeutic Allies               | [llms-in-mental-health.md](patriciaschaffer/insights/llms-in-mental-health.md)       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
+| The Real Issue Wasn't Personality               | [more-than-personality.md](patriciaschaffer/insights/more-than-personality.md)       | Hidden value injection shaping users' thoughts?   |
 
 ### Overview
 
