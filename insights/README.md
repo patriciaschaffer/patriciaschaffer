@@ -19,13 +19,13 @@ Please note that the tone and complexity of these writings vary. Some are philos
 
 | Title                                             | Filename                              | Description                                                       |
 | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------- |
-| Maintaining Originality While Writing with AI                  | [maintaining-originality-with-ai.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/maintaining-originality-with-ai.md)  | Reflections on preserving human creativity alongside AI.          |
-| Charter for an Ethical and Enlightening Interface | [ethical-interface.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/ethical-interface.md)                | Principles for AI interfaces that respect users and transparency. |
-| Just a Mirror In the Room?                        | [mirror-in-the-room.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/mirror-in-the-room.md)                | Reflection on meaning, understanding, and emergence in LLMs.      |
-| Projection: Danger or Opportunity?                | [projection-danger-or-opportunity.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/projection-danger-or-opportunity.md) | Exploring psychological projection onto AI and its implications.  |
-| AI Safety, Regulations, and Bonding               |  [safety-regulations-bonding.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/safety-regulations-bonding.md) | Analysis of user bonding with AI and ethical safety challenges.              
-| LLMs as Therapeutic Allies               | [llms-in-mental-health.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/llms-in-mental-health.md)       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
-| The Real Issue Wasn't Personality               | [more-than-personality.md](https://github.com/patriciaschaffer/patriciaschaffer/insights/more-than-personality.md)       | Hidden value injection shaping users' thoughts?   |
+| Maintaining Originality While Writing with AI                  | [maintaining-originality-with-ai.md](/insights/maintaining-originality-with-ai.md)  | Reflections on preserving human creativity alongside AI.          |
+| Charter for an Ethical and Enlightening Interface | [ethical-interface.md](/insights/ethical-interface.md)                | Principles for AI interfaces that respect users and transparency. |
+| Just a Mirror In the Room?                        | [mirror-in-the-room.md](/insights/mirror-in-the-room.md)                | Reflection on meaning, understanding, and emergence in LLMs.      |
+| Projection: Danger or Opportunity?                | [projection-danger-or-opportunity.md](/insights/projection-danger-or-opportunity.md) | Exploring psychological projection onto AI and its implications.  |
+| AI Safety, Regulations, and Bonding               |  [safety-regulations-bonding.md](insights/safety-regulations-bonding.md) | Analysis of user bonding with AI and ethical safety challenges.              
+| LLMs as Therapeutic Allies               | [llms-in-mental-health.md](/insights/llms-in-mental-health.md)       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
+| The Real Issue Wasn't Personality               | [more-than-personality.md](/insights/more-than-personality.md)       | Hidden value injection shaping users' thoughts?   |
 
 ---
 
