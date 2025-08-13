@@ -65,4 +65,6 @@ Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciasc
 
 ---
 
-_Thanks for reading (if you did) !_
+_Thanks for reading (if you did) !_ 
+
+📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/related_reading.md) I've read and you may enjoy, too! #EasterEgg 🐣
