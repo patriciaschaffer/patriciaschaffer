@@ -8,6 +8,7 @@
 | Projection: Danger or Opportunity?                | `projection-danger-or-opportunity.md` | Exploring psychological projection onto AI and its implications.  |
 | AI Safety, Regulations, and Bonding               | `safety-regulations-bonding.md`       | Analysis of user bonding with AI and ethical safety challenges.   |
 | LLMs as Therapeutic Allies               | `llms-in-mental-health.md`       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
+| The Real Issue Wasn't Personality               | `more-than-personality.md`       | Hidden value injection shaping users' thoughts?   |
 
 ### Overview
 
