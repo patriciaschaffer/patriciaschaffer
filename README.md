@@ -1,4 +1,4 @@
-## 👋 *Hi, I’m Patricia* - You probably like to play with code... I like to play with words 🧩
+## 👋 *Hi, I’m Patricia* - You probably like to play with code...<br>I like to play with words 🧩
 
 **Education Specialist | AI Safety Annotator | Non-Practicing Psychologist**  
 _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
@@ -16,7 +16,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 ### Projects
 
-- See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/archetypes.md) repo for AI persona and model design.  
+- See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design.  
 - Visit [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) for foundational work on LLM conceptual framing and safety.
 - Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics and human-AI relationships.
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
