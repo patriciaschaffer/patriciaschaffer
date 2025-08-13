@@ -1,4 +1,4 @@
-# Maintaining Originality While Writing with AI
+## Maintaining Originality While Writing with AI
 
 *Patricia Schaffer*
 
