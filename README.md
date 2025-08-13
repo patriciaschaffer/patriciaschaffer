@@ -10,7 +10,7 @@ _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I thought I'd come to GitHub because LLMs need more than computer science, and we should all join the conversation and build together.
 
 > **Motto:**  
-> _"We've made more mistakes with the internet. Let's do better with AI."_
+> _"We've made mistakes with the internet. Let's do better with AI."_
 
 ---
 
