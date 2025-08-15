@@ -26,6 +26,8 @@ Please note that the tone and complexity of these writings vary. Some are philos
 | AI Safety, Regulations, and Bonding               |  [safety-regulations-bonding.md](insights/safety-regulations-bonding.md) | Analysis of user bonding with AI and ethical safety challenges.              
 | LLMs as Therapeutic Allies               | [llms-in-mental-health.md](/insights/llms-in-mental-health.md)       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
 | The Real Issue Wasn't Personality               | [more-than-personality.md](/insights/more-than-personality.md)       | Hidden value injection shaping users' thoughts?   |
+| Telling Users What They Want to Hear               | [sycophancy-safety-literacy.md](/insights/sycophancy-safety-literacy.md)       | AI safety and AI literacy should focus on users, not on the industry   |
+
 
 ---
 
