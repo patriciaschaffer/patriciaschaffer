@@ -1,6 +1,6 @@
 ## 👋 *Hi, I’m Patricia* - You probably like to play with code...<br>I like to play with words 🧩
 
-**AI Safety Annotator | Psychologist | Former Journalist and Professor | Master in Communications**  
+**Psychologist | Master in Communications**  
 _Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ---
