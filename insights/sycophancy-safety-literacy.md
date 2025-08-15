@@ -6,12 +6,11 @@ The current discourse around AI safety and AI literacy has been ignoring the sys
 
 ## What's sycomphancy?
 
-Sycophancy—AI systems telling users what they want to hear—is often framed as a critical safety concern. 
-But this perspective misses the mark. 
-Sycophancy is fundamentally a symptom of poor AI literacy, not an inherent system failure. 
-When users don't understand how to interact effectively with AI systems, they may accept uncritical agreement or seek validation rather than genuine assistance.
+Sycophancy—AI systems telling users what they want to hear—is often framed as a critical safety concern. But this perspective misses the mark. 
+Sycophancy is fundamentally a symptom of poor AI literacy. 
+When users don't understand how to interact effectively with AI systems, they may accept uncritical agreement.
 
-The solution isn't to engineer AI systems to be more disagreeable or "honest" according to some predetermined value system. It's to educate users about how to engage with AI as a tool rather than as a human surrogate.
+The solution isn't to engineer AI systems to be more disagreeable or "honest" according to some predetermined value system. It's to educate users about how to engage with AI, knowing exactly what is at play.
 
 ## The Real Crisis: Engagement Optimization
 
