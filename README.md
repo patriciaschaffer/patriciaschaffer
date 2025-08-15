@@ -1,7 +1,7 @@
 ## 👋 *Hi, I’m Patricia* - You probably like to play with code...<br>I like to play with words 🧩
 
-**Psychologist | Master in Communications**  
-_Passionate about LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
+**Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor** </br>
+_Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ---
 
