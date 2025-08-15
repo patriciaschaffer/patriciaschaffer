@@ -78,6 +78,6 @@ The current AI safety paradigm serves corporate interests more than user wellbei
 True AI safety requires shifting focus from engineering "better" AI behavior to educating users about effective AI interaction and reforming the business models that turn users into products. 
 Only then can we develop AI systems that truly serve human flourishing.
 
-*August 19, 2025.*
-
 The goal shouldn't be AI that enforces particular values, but AI that empowers users to make informed decisions based on their own values. This requires transparency, education, and systemic change—not more sophisticated forms of benevolent manipulation.
+
+*August 19, 2025.*
