@@ -20,6 +20,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 - Visit [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) for foundational work on LLM conceptual framing and safety.
 - Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics and human-AI relationships.
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
+- Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python_projects)
 
 ---
 
