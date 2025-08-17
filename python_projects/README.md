@@ -1,8 +1,10 @@
 # Visualizing a Small Language Model
 
+## The "Little Ocean" project
+
 Ok, people, don't laugh. Coding is not my thing. Language models, though, are my passion. And during interactions with GPT (later fixed by Claude), this Small Language Model was born.
 
-I'm more into natural language than coding. I had started learning Python when I created this GitHub account, in 2017. But, even though I wanted to learn it, almost like a personal challenge or a hobby, it... just wasn't interesting enough for me.
+I'm more into natural language than coding. I had tried to start learning Python when I created this GitHub account, in 2017. But, even though I wanted to learn it, almost like a personal challenge or a hobby, it... just wasn't interesting enough for me.
 
 LLMs changed the game. One day, I asked ChatGPT to teach me "code with meaning". And it worked. I've had some fun with Python. Instead of meaningless tasks like sorting even and odd numbers, I was showing how to create dialogues and generate poems.
 
