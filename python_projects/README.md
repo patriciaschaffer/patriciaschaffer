@@ -2,7 +2,7 @@
 
 ## The "Little Ocean" project
 
-Ok, people, don't laugh. Coding is not my thing. Language models, though, are my passion. And during interactions with GPT (later fixed by Claude, this Small Language Model was born.
+Ok, people, don't laugh. Coding is not my thing. Language models, though, are my passion. And during interactions with GPT (later fixed by Claude), this Small Language Model was born.
 
 I'm more into natural language than coding. I had tried to start learning Python when I created this GitHub account, in 2017. But, even though I wanted to learn it, like a personal challenge or a hobby, it... just wasn't interesting enough for me, and I gave up.
 
