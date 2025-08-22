@@ -22,6 +22,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
 - Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python_projects)
 - Personas created using the open source GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/gpt2/README.md)
+- Personas created using the open source GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/mistral/README.md)
 
 ---
 
@@ -29,7 +30,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 I work deliberately with models designed for the end user—not AGI. Most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Recently, I've started playing with open source GPT-2, and creating personas there for fun, too.
+Recently, I've started playing with open source GPT-2 and Mistral, and creating personas there for fun, too.
 
 
 **Open to partnerships with teams building responsible AI.**
