@@ -21,8 +21,8 @@ I’m an early adopter of computers and the internet, always curious about the i
 - Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics and human-AI relationships.
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
 - Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python_projects)
-- Personas created using the open source GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/gpt2)
-- Personas created using the open source Mistral-7B-Instruct-v0.1-GGUF: [Mistral personas](https://github.com/patriciaschaffer/agent-architecht/mistral)
+- Personas created using the open source GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2)
+- Personas created using the open source Mistral-7B-Instruct-v0.1-GGUF: [Mistral personas]([https://github.com/patriciaschaffer/agent-architecht/mistral](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral)
 
 ---
 
