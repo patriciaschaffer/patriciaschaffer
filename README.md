@@ -1,16 +1,7 @@
 ## 👋 *Hi, I’m Patricia* - You probably like to play with code...<br>I like to play with words 🧩
 
-**Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor** </br>
+**Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor | AI Trainer** </br>
 _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
-
----
-
-### About Me
-
-I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I thought I'd come to GitHub because LLMs need more than computer science, and we should all join the conversation and build together.
-
-> **Motto:**  
-> _"We've made mistakes with the internet. Let's do better with AI."_
 
 ---
 
@@ -23,6 +14,15 @@ I’m an early adopter of computers and the internet, always curious about the i
 - Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python_projects)
 - Personas created using the open source GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2)
 - Personas created using the open source Mistral-7B-Instruct-v0.1-GGUF: [Mistral personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral)
+  
+---
+
+### About Me
+
+I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I thought I'd come to GitHub because LLMs need more than computer science, and we should all join the conversation and build together.
+
+> **Motto:**  
+> _"We've made mistakes with the internet. Let's do better with AI."_
 
 ---
 
