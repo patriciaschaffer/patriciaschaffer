@@ -7,11 +7,11 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ### Projects
 
-- See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design.  
-- Personas created using the open source GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2)
-- Personas created using the open source Mistral-7B-Instruct-v0.1-GGUF: [Mistral personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral)
-- Visit [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) for foundational work on LLM conceptual framing and safety.
-- Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics and human-AI relationships.
+- See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design: consistency, tone, and conversational alignment.
+- Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2)
+- Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral)
+- A conceptual repo exploring the framing of LLMs beyond "agents": [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) 
+- Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust. 
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
 - Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python_projects)
   
@@ -19,7 +19,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ### About Me
 
-I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I thought I'd come to GitHub because LLMs need more than computer science, and we should all join the conversation and build together.
+I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I thought I'd come to GitHub because LLMs need more than computer science, and we should all join the conversation and build together. This GitHub is my portfolio: an open notebook of prototypes, research, and teaching resources that explore how we can shape more thoughtful, responsive AI systems.
 
 > **Motto:**  
 > _"We've made mistakes with the internet. Let's do better with AI."_
@@ -33,7 +33,7 @@ I work deliberately with models designed for the end user—not AGI. Most people
 Recently, I've started playing with open source GPT-2 and [Mistral](https://github.com/mistralai), and creating personas there for fun, too.
 
 
-**Open to partnerships with teams building responsible AI.**
+**Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI. Feel free to reach out.**
 
 ---
 
