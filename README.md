@@ -10,6 +10,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design: consistency, tone, and conversational alignment.
 - Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2)
 - Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral)
+- Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/agent-architect/tree/main/personas/grice-s-maxims) 
 - A conceptual repo exploring the framing of LLMs beyond "agents": [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents) 
 - Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust. 
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research)
