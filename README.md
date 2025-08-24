@@ -34,7 +34,9 @@ I work deliberately with models designed for the end user—not AGI. Most people
 Recently, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc.
 
 
-**Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI. Feel free to reach out.**
+**Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI. 
+
+Feel free to reach out!**
 
 ---
 
