@@ -1,4 +1,4 @@
-### You probably like to play with code 🧩 <br> I like to play with words and personas 🎭
+### You probably like to play with code 🧩 <br> I like to play with words and LLM personas 🎭
 
 #### *Patricia Schaffer*
 
