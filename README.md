@@ -1,4 +1,6 @@
-## 👋 *Hi, I’m Patricia* - You probably like to play with code 🧩<br> 🧩 I like to play with words (& personas)
+## You probably like to play with code 🧩 <br> I like to play with words and personas 🎭
+
+### *Patricia Schaffer*
 
 **Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor | AI Trainer** </br>
 _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
@@ -20,7 +22,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ### About Me
 
-I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I thought I'd come to GitHub because LLMs need more than computer science, and we should all join the conversation and build together. This GitHub is my portfolio: an open notebook of prototypes, research, and teaching resources that explore how we can shape more thoughtful, responsive AI systems.
+I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I'm here because LLMs need more than computer science, and we should all join the conversation and build together. This GitHub is my portfolio: an open notebook of prototypes, research, and teaching resources that explore how we can shape more thoughtful, responsive AI systems.
 
 > **Motto:**  
 > _"We've made mistakes with the internet. Let's do better with AI."_
@@ -29,14 +31,13 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 ### My Approach
 
-I work deliberately with models designed for the end user—not AGI. Most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
+At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Recently, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc.
+Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc.
 
 
-**Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI. 
-
-Feel free to reach out!**
+**Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI** 
+**Feel free to reach out!**
 
 ---
 
@@ -62,9 +63,9 @@ Feel free to reach out!**
 
 ### Extra
 
-- I currently teach French and have the best students in the world 🇫🇷 👩‍🏫
+- Besides my job in AI Safety and Training 🤖, I teach French and have the best students in the world 🇫🇷 👩‍🏫
 - I sometimes teach ESL, too 🇺🇸 🇨🇦  
-- I've been practicing Italian and Python with GPT on my free time 🐍 🇮🇹
+- I've been practicing Italian and Python using my models on my free time 🐍 🇮🇹
 
 ---
 
