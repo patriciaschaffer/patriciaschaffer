@@ -1,6 +1,6 @@
-## You probably like to play with code 🧩 <br> I like to play with words and personas 🎭
+### You probably like to play with code 🧩 <br> I like to play with words and personas 🎭
 
-### *Patricia Schaffer*
+#### *Patricia Schaffer*
 
 **Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor | AI Trainer** </br>
 _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
