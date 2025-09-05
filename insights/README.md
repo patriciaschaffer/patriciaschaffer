@@ -27,7 +27,7 @@ Please note that the tone and complexity of these writings vary. Some are philos
 | LLMs as Therapeutic Allies               | [llms-in-mental-health.md](/insights/llms-in-mental-health.md)       | Collaborative AI integration in therapeutic practice and professional enhancement applications.   |
 | The Real Issue Wasn't Personality               | [more-than-personality.md](/insights/more-than-personality.md)       | Hidden value injection shaping users' thoughts?   |
 | Telling Users What They Want to Hear               | [sycophancy-safety-literacy.md](/insights/sycophancy-safety-literacy.md)       | AI safety and AI literacy should focus on users, not on the industry   |
-
+| LLMs Are Not Agents               | [manifesto.md](/insights/manifesto.md)       | Language Models Are Models, Not Agents   |
 
 ---
 
