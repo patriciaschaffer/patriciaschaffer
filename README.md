@@ -1,4 +1,4 @@
-# You probably like to play with code 🧩 <br> *I like to play with words📝 <br> –and LLM personas* 🎭
+# You probably like to play with code 🧩 <br> *I like to play with words📝 <br> —and LLM personas* 🎭
 
 
 **Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor | AI Trainer** </br>
