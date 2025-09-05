@@ -1,5 +1,4 @@
-# You probably like to play with code 🧩 <br> I like to play with words📝 <br> *and LLM personas* 
-
+## Patricia Schaffer
 
 **Psychologist *(currently non-practicing)* | Master in Communications | Languages Instructor | AI Trainer** </br>
 _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
