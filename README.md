@@ -12,11 +12,10 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2);
 - Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral AI personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral);
 - Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/agent-architect/tree/main/personas/grice-s-maxims);
-- A conceptual repo exploring the framing of LLMs beyond "agents": [llms-models-not-agents](https://github.com/patriciaschaffer/llm-models-not-agents);
 - Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
 - Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research);
 - Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python_projects);
-- 🆕 Current project (in progress): models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md).
+- Current project (in progress): models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md).
   
 ---
 
@@ -77,4 +76,4 @@ Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciasc
 
 _Thanks for reading (if you did) !_ 
 
-📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/related_reading.md) I've read and you may enjoy, too! #EasterEgg 🐣
+📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/agent-architect/blob/main/related-reading.md) I've read and you may enjoy, too! #EasterEgg 🐣
