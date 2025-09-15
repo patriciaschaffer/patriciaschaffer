@@ -32,7 +32,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc.
+Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. Now, I am testing RAG to simulate memory in some of those personas.
 
 
 **Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI** 
