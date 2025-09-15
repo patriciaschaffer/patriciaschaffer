@@ -58,4 +58,4 @@ Perhaps that’s AI’s greatest gift to humanity: not just reflecting us as we 
 
 The choice is ours. The mirror is watching. What do we want it to learn?
 
-*Originally published on Medium on Auhust 5, 2025.*
+*Originally published on Medium on August 5, 2025.*
