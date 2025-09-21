@@ -12,10 +12,10 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2);
 - Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral AI personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral);
 - Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/agent-architect/tree/main/personas/grice-s-maxims);
-- Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/about_me/tree/main/python-projects);
+- Simulating a Small Language Model: [The "Little Ocean" project]();
 - Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md);
-- Explore my [Insights Collection](https://github.com/patriciaschaffer/patriciaschaffer/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
-- Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/about_me/tree/main/research).
+- Explore my [Insights Collection](https://github.com/patriciaschaffer/agent-architect/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
+- Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md).
   
 ---
 
