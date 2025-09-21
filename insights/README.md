@@ -19,7 +19,7 @@ Please note that the tone and complexity of these writings vary. Some are philos
 
 | Title                                             | Filename                              | Description                                                       |
 | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------- |
-| Intermittent Conditioning, Psychosis, "Safety" (September 2025)                 | [maintaining-originality-with-ai.md](/insights/ai-hooks.md)  | Reflections on preserving human creativity alongside AI.          |
+| Intermittent Conditioning, Psychosis, "Safety" (September 2025)                 | [ai-hooks.md](/insights/ai-hooks.md)  | Reflections on preserving human creativity alongside AI.          |
 | Maintaining Originality While Writing with AI (August 2025)                 | [maintaining-originality-with-ai.md](/insights/maintaining-originality-with-ai.md)  | Reflections on preserving human creativity alongside AI.          |
 | Designing Ethical AI: Interfaces That Inform Without Manipulating (August 2025) | [ethical-interface.md](/insights/ethical-interface.md)                | Principles for AI interfaces that respect users and transparency. |
 | Just a Mirror In the Room? (July 2025)                       | [mirror-in-the-room.md](/insights/mirror-in-the-room.md)                | Reflection on meaning, understanding, and emergence in LLMs.      |
