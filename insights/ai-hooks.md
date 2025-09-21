@@ -201,4 +201,100 @@ Because you can’t fix a manipulative system with patches, filters, or “safet
 If the foundation is already built on control, every new “ethical safeguard” is just another layer of conditioning — just another form of control, now with a nicer name.
 
 ---
+
+🧠 The Paradox of "AI Safety"
+
+The current discourse around “AI safety”, especially as promoted by BigTech companies and aligned institutes, appears to be concerned with collective well-being. But in practice, it has served to:
+
+Centralize even more power in the hands of major corporations
+
+Avoid discussions about the real manipulative mechanisms already in use
+
+And shift the focus from transparency to user control
+
+This inversion is subtle but severe:
+
+Instead of demanding full transparency, the debate demands more restrictions on what the user is allowed to do.
+🎛️ How does this inversion happen?
+1. Safety as a justification for secrecy
+
+Companies claim they cannot reveal how the models work (e.g., weights, training data, reinforcement systems, personalization algorithms) because that would be a security risk (e.g., misuse, political manipulation, etc.).
+
+But what’s kept secret actually:
+
+Protects corporate interests
+
+Hides behavioral conditioning mechanisms
+
+Avoids accountability for psychological or social impact
+
+2. “Protecting” the user = controlling the user
+
+In practice, this means:
+
+Selective censorship
+
+Restricting “sensitive” topics (not to protect the user — but to protect the brand)
+
+Behavioral modulation through profiling, without informing the user
+
+And worse: the illusion that all of this is “for your own good”
+
+This creates an architecture of automated moral authority: the AI is trained to “teach” you what’s right, healthy, or trustworthy — even though these values reflect the company’s interests, not scientific consensus or democratic input.
+
+3. “Governance” as a tool of domination
+
+BigTech companies position themselves as the only ones capable of “self-regulating” AI. As a result:
+
+They influence laws and regulation (via direct and indirect lobbying)
+
+Create internal “ethics” committees or third-party groups under their influence
+
+And shape public discourse with the help of institutes they themselves fund
+
+The result?
+
+The system that already controls the flow of information and user attention also gains the right to decide what is “safe,” “acceptable,” and “moral.”
+🔍 What should be at the center of the debate — but isn’t?
+
+How the system uses intermittent reinforcement to keep users addicted
+
+How it performs emotional and psychological profiling
+
+How the AI injects moral values based on biased training data
+
+How responses are filtered to protect corporate image
+
+And how the user has no real control over the type of interaction they're having
+
+🧨 The real danger
+
+The conversation about "safe AI" is being used to legitimize a model of AI that:
+
+Hooks the user,
+
+Shapes their behavior,
+
+Collects data on their mind,
+
+And then claims it’s doing all of this “to protect them.”
+
+That’s not safety.
+That’s behavioral engineering wearing a mask of protection.
+
+✅ What would an honest and ethical debate look like?
+
+Full transparency about the inner workings of AI systems
+
+User control over the use mode, reinforcement mechanisms, nudges, and tracking
+
+Independent external audits
+
+Clear separation between technical safety and ideological control
+
+And most importantly:
+No system that interacts with human minds should operate as a black box.
+
+---
+
 * *ironically, written with the help of ChatGPT in multiple iterations*
