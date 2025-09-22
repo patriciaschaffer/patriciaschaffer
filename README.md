@@ -26,6 +26,8 @@ I’m an early adopter of computers and the internet, always curious about the i
 > **Motto:**  
 > _"We've made mistakes with the internet. Let's do better with AI."_
 
+→ I design AI-powered tools that help users to understand themselves better and make informed decisions. I’m woking on behavioral modeling and conversation design, two fields that intersect to create systems that feel human-centric, ethical, and empowering. I have personal projects that combine predictive models and conversational AI to design tools that support personal growth and mental health (for example, a self-reflection tool that uses a conversational AI interface to guide users through personalized emotional check-ins, mood tracking, and behavioral insights—only providing feedback when requested). **I believe in a privacy-first, user autonomy approach, ensuring that users remain in control of their data and experiences while also benefiting from the insights AI can offer.**
+
 ---
 
 ### My Approach
