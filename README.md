@@ -7,7 +7,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ### Personal Projects
 
-- I haven't had time to update the new projects I'm currently working on :-( Sorry; feel free to reach out.
+- **I haven't had time to update the new projects I'm currently working on :-( Sorry; feel free to reach out.**
 - See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design: consistency, tone, and conversational alignment (or go straight to [LLM Society Overview](https://github.com/patriciaschaffer/agent-architect/blob/main/llm-society.md#llm-society-overview) for visuals);
 - RAG systems to [simulate memory](https://github.com/patriciaschaffer/agent-architect/tree/main/memory-rag/README.md) in local models/personas**;
 - Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2);
