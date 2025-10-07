@@ -38,7 +38,7 @@ At first, I deliberately worked with models designed for the end user, since mos
 Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. Now, I am testing RAG to simulate memory in some of those personas.
 
 
-**Interested in collaborating with teams working at the intersection of LLMs, human-centered design, and ethical AI** 
+**Interested in collaborating with teams working at the intersection of LLMs, philosophy of language/mind, human-centered design, AI literacy and ethical AI.** 
 **Feel free to reach out!**
 
 ---
