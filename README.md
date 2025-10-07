@@ -16,7 +16,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/python-projects/README.md);
 - Models to interact with locally using [Gradio] (https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md) => P.S. I no longer use Gradio #askmewhy;
 - Explore my [Insights Collection](https://github.com/patriciaschaffer/agent-architect/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
-- Applied Research: [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md).
+- [Applied Research](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs / Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models.
   
 ---
 
