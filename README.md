@@ -8,15 +8,15 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 ### Personal Projects
 
 - **I haven't had time to update the new projects I'm currently working on :-( Sorry; feel free to reach out.** They're about consistency x accuracy, attention mechanisms-the space to reply between human and machine, always tied to language and psychology. Sorry; I haven't updated models, personas, setups.
-- See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design: consistency, tone, and conversational alignment (or go straight to [LLM Society Overview](https://github.com/patriciaschaffer/agent-architect/blob/main/llm-society.md#llm-society-overview) for visuals);
-- RAG systems to [simulate memory](https://github.com/patriciaschaffer/agent-architect/tree/main/memory-rag/README.md) in local models/personas;
-- Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2);
-- Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral AI personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral);
-- Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/agent-architect/tree/main/personas/grice-s-maxims);
-- Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/python-projects/README.md);
-- Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md) => P.S. I no longer use Gradio #askmewhy;
-- Explore my [Insights Collection](https://github.com/patriciaschaffer/agent-architect/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
-- [Applied Research](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): 1. Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs / 2. Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models. / 3. [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+👩‍🎨 See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design: consistency, tone, and conversational alignment (or go straight to [LLM Society Overview](https://github.com/patriciaschaffer/agent-architect/blob/main/llm-society.md#llm-society-overview) for visuals);
+🧠 RAG systems to [simulate memory](https://github.com/patriciaschaffer/agent-architect/tree/main/memory-rag/README.md) in local models/personas;
+🤖 Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2);
+🎭 Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral AI personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral);
+😈 Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/agent-architect/tree/main/personas/grice-s-maxims);
+👶 Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/python-projects/README.md);
+🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md) => P.S. I no longer use Gradio #askmewhy;
+🤔 Explore my [Insights Collection](https://github.com/patriciaschaffer/agent-architect/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
+🙇‍♀️ [Applied Research](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): 1. Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs / 2. Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models. / 3. [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
   
 ---
 
@@ -27,7 +27,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 > **Motto:**  
 > _"We've made mistakes with the internet. Let's do better with AI."_
 
-→ I design AI-powered tools that help users to understand themselves better and make informed decisions. I’m woking on behavioral modeling and conversation design, two fields that intersect to create systems that feel human-centric, ethical, and empowering. I have personal projects that combine predictive models and conversational AI to design tools that support personal growth and mental health (for example, a self-reflection tool that uses a conversational AI interface to guide users through personalized emotional check-ins, mood tracking, and behavioral insights—only providing feedback when requested). **I believe in a privacy-first, user autonomy approach, ensuring that users remain in control of their data and experiences while also benefiting from the insights AI can offer.**
+→ I design and study AI-powered tools to help users to understand themselves better and make informed decisions. I’m woking on behavioral modeling and conversation design, two fields that intersect to create systems that feel human-centric, ethical, and empowering. I have personal projects that combine predictive models and conversational AI to design tools that support personal growth and mental health (for example, a self-reflection tool that uses a conversational AI interface to guide users through personalized emotional check-ins, mood tracking, and behavioral insights—only providing feedback when requested). **I believe in a privacy-first, user autonomy approach, ensuring that users remain in control of their data and experiences while also benefiting from the insights AI can offer.**
 
 ---
 
