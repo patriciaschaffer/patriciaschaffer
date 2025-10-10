@@ -11,7 +11,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - 👩‍🎨 See the [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md) repo for AI persona and model design: consistency, tone, and conversational alignment (or go straight to [LLM Society Overview](https://github.com/patriciaschaffer/agent-architect/blob/main/llm-society.md#llm-society-overview) for visuals);
 - 🧠 RAG systems to [simulate memory](https://github.com/patriciaschaffer/agent-architect/tree/main/memory-rag/README.md) in local models/personas;
 - 🤖 Lightweight, stylized LLM agents built using GPT-2: [GPT-2 personas](https://github.com/patriciaschaffer/agent-architect/tree/main/gpt2);
-- 🎭 Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF: [Mistral AI personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral);
+- 🎭 Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF (and base Mistral): [Mistral AI personas](https://github.com/patriciaschaffer/agent-architect/tree/main/mistral);
 - 😈 Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/agent-architect/tree/main/personas/grice-s-maxims);
 - 👶 Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/python-projects/README.md);
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md) => P.S. I no longer use Gradio #askmewhy;
