@@ -57,6 +57,7 @@ Recently, however, I've started playing with open source GPT-2 and [Mistral AI](
 
 ### Favorite Projects & Focus Areas
 
+- Interpretability/Explainability
 - Model Design – Crafting user-centered AI models  
 - Prompt Design – Exploring the art and science of communicating with LLMs  
 - Multidisciplinary LLM Work – Bridging tech, linguistics, and psychology to create end-user value
