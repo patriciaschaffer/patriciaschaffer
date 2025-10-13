@@ -45,6 +45,7 @@ Recently, however, I've started playing with open source GPT-2 and [Mistral AI](
 
 # Repository Structure fo Agent Architect
 
+```
 root/
 ├── README.md
 │
