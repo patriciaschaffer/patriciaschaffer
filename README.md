@@ -196,8 +196,8 @@ root/
 │
 ├── conversation-artifacts/ # Interpretability, affective drift, anomalies
 │ ├── README.md
-│ ├── affect-reciprocity.md
-│ ├── behavioral-failures.md
+│ ├── affect-reciprocity.md # emergent affect and symbolic reciprocity in ToM
+│ ├── behavioral-failures.md # misalignments, design flaws
 │ ├── context-integrity.md
 │ ├── creative-hallucination.md
 │ ├── drift-detection.md
@@ -215,12 +215,12 @@ root/
 │
 ├── research/ # Studies, data, and formal analyses
 │ ├── README.md
-│ ├── ocean-breeze.md
-│ ├── ocean-symbolic-language.md
-│ ├── ocean-symbolic-drift.md
-│ ├── matrices.md # Re: language bias study
+│ ├── ocean-breeze.md # persona stability and meta-awareness  
+│ ├── ocean-symbolic-language.md # semiotics, phenomenology, narrative, Lacan,
+│ ├── ocean-symbolic-drift.md # dialogic cognition, language emergence
+| |
+| ├── matrices.md # Re: language bias study
 │ ├── raw.md Re: language bias study
-│ │
 │ ├── docs/ Re: language bias study
 │ │ ├── introduction.md 
 │ │ ├── methodology.md
