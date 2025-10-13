@@ -189,8 +189,7 @@ root/
 │ │
 │ └── gradio/ # Mistral GUI front-end
 │ ├── README.md
-│ ├── archetypal
-│ ├── analyst.py
+│ ├── archetypal_analyst.py
 │ ├── spec_gradio.py
 │ ├── varek-spec_gradio.py
 │ └── varek_gradio.py
