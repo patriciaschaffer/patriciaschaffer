@@ -35,11 +35,52 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've been testing RAG to simulate memory in some of those personas, and conducting research on theory of mind with my personas.
+Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've been testing RAG to simulate memory in some of those personas, and conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas.
 
 
 **Interested in collaborating with teams working at the intersection of LLMs, philosophy of language/mind, human-centered design, AI literacy and ethical AI.** 
 **Feel free to reach out!**
+
+---
+
+### Skills & Interests
+
+- Natural Languages (human & basic Python!)
+- AI Safety & Model Design
+- Linguistics & Pragmatics
+- Tech Curiosity & Early Adoption
+- Human Behaviour Insight
+- Human-Centered AI Design
+- Ethical AI
+
+---
+
+### Favorite Projects & Focus Areas
+
+- Interpretability/Explainability
+- Model Design – Crafting user-centered AI models  
+- Prompt Design – Exploring the art and science of communicating with LLMs  
+- Multidisciplinary LLM Work – Bridging tech, linguistics, and psychology to create end-user value
+
+---
+
+### Extra
+
+- Besides my job in AI Safety and Training 🤖, I teach French and have the best students in the world 🇫🇷 👩‍🏫
+- I sometimes teach ESL, too 🇺🇸 🇨🇦  
+- I've been practicing Italian and Python using my models on my free time 🐍 🇮🇹
+
+---
+
+### How to Connect
+
+Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
+
+---
+
+_Thanks for reading (if you did) !_ 
+
+📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/agent-architect/blob/main/related-reading.md) I've read and you may enjoy, too! #EasterEgg 🐣
 
 ---
 
@@ -220,43 +261,5 @@ root/
 └── related-reading.md                          # Bibliography and references
 
 ```
----
 
-### Skills & Interests
 
-- Natural Languages (human & basic Python!)
-- AI Safety & Model Design
-- Linguistics & Pragmatics
-- Tech Curiosity & Early Adoption
-- Human Behaviour Insight
-- Human-Centered AI Design
-- Ethical AI
-
----
-
-### Favorite Projects & Focus Areas
-
-- Interpretability/Explainability
-- Model Design – Crafting user-centered AI models  
-- Prompt Design – Exploring the art and science of communicating with LLMs  
-- Multidisciplinary LLM Work – Bridging tech, linguistics, and psychology to create end-user value
-
----
-
-### Extra
-
-- Besides my job in AI Safety and Training 🤖, I teach French and have the best students in the world 🇫🇷 👩‍🏫
-- I sometimes teach ESL, too 🇺🇸 🇨🇦  
-- I've been practicing Italian and Python using my models on my free time 🐍 🇮🇹
-
----
-
-### How to Connect
-
-Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
-
----
-
-_Thanks for reading (if you did) !_ 
-
-📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/agent-architect/blob/main/related-reading.md) I've read and you may enjoy, too! #EasterEgg 🐣
