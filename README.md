@@ -17,6 +17,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md) => P.S. I no longer use Gradio #askmewhy;
 - 🤔 Explore my [Insights Collection](https://github.com/patriciaschaffer/agent-architect/blob/main/insights/README.md) for essays on AI ethics, human-AI relationships and trust;
 - 🙇‍♀️ [Applied Research](https://github.com/patriciaschaffer/agent-architect/blob/main/research/README.md): 1. [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md) / 2. [Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models](https://github.com/patriciaschaffer/agent-architect/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md). / 3. [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md) 4. [Symbolic Drift in the Ocean–Breeze Dialogue](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-drift.md)
+- 🪾Agent Architect Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-fo-agent-architect)
   
 ---
 
@@ -84,7 +85,7 @@ _Thanks for reading (if you did) !_
 
 ---
 
-# Repository Structure fo Agent Architect
+## Repository Structure fo Agent Architect
 
 ```
 root/
