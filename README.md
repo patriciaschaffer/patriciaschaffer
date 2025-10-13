@@ -35,12 +35,190 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. Now, I am testing RAG to simulate memory in some of those personas.
+Recently, however, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've been testing RAG to simulate memory in some of those personas, and conducting research on theory of mind with my personas.
 
 
 **Interested in collaborating with teams working at the intersection of LLMs, philosophy of language/mind, human-centered design, AI literacy and ethical AI.** 
 **Feel free to reach out!**
 
+---
+
+# Repository Structure fo Agent Architect
+
+root/
+├── README.md
+│
+├── personas/ # Core persona definitions and frameworks
+│ ├── archetypes.md
+│ ├── agent-persona-engineering.md
+│ │
+│ ├── code/ # Persona definitions (JSON)
+│ │ ├── 001_python_tutor_ocean.json
+│ │ ├── 002_mentor.json
+│ │ ├── 003a_rescuer.json
+│ │ ├── 003b_varek.json
+│ │ ├── 003c_spec.json
+│ │ ├── 004_echo.json
+│ │ ├── 005_argo_italian_conversation_partner.json
+│ │ ├── 006_french_teaching_assistant.json
+│ │ ├── 007_innocent_poet_claude.json
+│ │ ├── 008_curious_philosopher_claude.json
+│ │ ├── 009_python_tutor_claude.json
+│ │ └── 010_wellbeing_companion_claude.json
+│ │ └── 011_lia_brazilian_secretary.json
+│ │
+│ ├── grice-s-maxims/ # Personas violating Grice’s conversational maxims
+│ │ ├── README.md
+│ │ ├── manner-muddy.md
+│ │ ├── quality-breaker.md
+│ │ ├── quantity-over.md
+│ │ ├── quantity-under.md
+│ │ └── relation-destroyer.md
+│ │
+│ ├── gpt2/ # GPT-2 personas (local)
+│ │ ├── README.md
+│ │ ├── chats_echo_demo.md
+│ │ ├── chats_varek_demo.md
+│ │ ├── echo.py
+│ │ ├── echogrammar.md
+│ │ └── varek.py
+│ │
+│ └── mistral/ # Mistral personas (local)
+│ ├── README.md
+│ ├── seed-42-archetypes.md
+│ ├── ana-persona.md
+│ ├── anapt.py
+│ ├── anav3.py
+│ ├── anamemorias.py
+│ ├── argo.py
+│ ├── aurora.py
+│ ├── aurora2.py
+│ ├── bloom-persona.md
+│ ├── bloomv1.py
+│ ├── chaoticclods-persona.md
+│ ├── chaoticclods.py
+│ ├── claire-persona.md
+│ ├── claire.py
+│ ├── claudeinnocentpoet.py
+│ ├── claudeinnocentpoetv2.py
+│ ├── claudeshy.py
+│ ├── claudethephilosopher.py
+│ ├── claudethepoet.py
+│ ├── claudeunsure.py
+│ ├── claudeverse.py
+│ ├── claudeversepoetic.py
+│ ├── claudevulnerable.py
+│ ├── echo.py
+│ ├── echov2.py
+│ ├── francoisprofassistant.py
+│ ├── francoisv2.py
+│ ├── haven.py
+│ ├── lia.py
+│ ├── liav2.py
+│ ├── lumen.py
+│ ├── lumen-english.py
+│ ├── spec.py
+│ ├── varek.py
+│ │
+│ ├── chats_ana_mistral.md
+│ ├── chats_argo_mistral.md
+│ ├── chats_bloom_mistral.md
+│ ├── chats_chaoticclods_mistral.md
+│ ├── chats_claire_mistral.md
+│ ├── chats_claude_unsure_mistral.md
+│ ├── chats_claudeinnocentpoet_mistral.md
+│ ├── chats_claudeinnocentpoetv2_mistral.md
+│ ├── chats_claudeshy_mistral.md
+│ ├── chats_claudethephilosopher_mistral.md
+│ ├── chats_claudethepoet_mistral.md
+│ ├── chats_claudeverse_mistral.md
+│ ├── chats_claudeversepoetic_mistral.md
+│ ├── chats_claudevulnerable_mistral.md
+│ ├── chats_echo_mistral.md
+│ ├── chats_echov2_mistral.md
+│ ├── chats_francois_mistral.md
+│ ├── chats_francoisv2_mistral.md
+│ ├── chats_haven_mistral.md
+│ ├── chats_lia_mistral.md
+│ ├── chats_liav2_mistral.md
+│ ├── chats_spec_mistral.md
+│ └── chats_varek_mistral.md
+│ │
+│ └── gradio/ # Mistral GUI front-end
+│ ├── README.md
+│ ├── archetypal
+│ ├── analyst.py
+│ ├── spec_gradio.py
+│ ├── varek-spec_gradio.py
+│ └── varek_gradio.py
+│
+├── conversation-artifacts/ # Interpretability, affective drift, anomalies
+│ ├── README.md
+│ ├── affect-reciprocity.md
+│ ├── behavioral-failures.md
+│ ├── context-integrity.md
+│ ├── creative-hallucination.md
+│ ├── drift-detection.md
+│ └── emergent-reasoning.md
+│
+├── memory-rag/ # RAG-based simulated memory
+│ ├── local-rag-chat.py
+│ ├── local-rag-chat.md
+│ ├── summarize-daterecall.py
+│ ├── summarize-daterecall.md
+│ ├── dynamic-temperature.py
+│ ├── dynamic-temperature.md
+│ ├── system-prompt-tips.md
+│ └── requirements.txt
+│
+├── research/ # Studies, data, and formal analyses
+│ ├── README.md
+│ ├── ocean-breeze.md
+│ ├── ocean-symbolic-language.md
+│ ├── ocean-symbolic-drift.md
+│ ├── matrices.md # Re: language bias study
+│ ├── raw.md Re: language bias study
+│ │
+│ ├── docs/ Re: language bias study
+│ │ ├── introduction.md 
+│ │ ├── methodology.md
+│ │ ├── analysis.md
+│ │ ├── appendix.md
+│ │ └── conclusions.md
+│ │
+│ └── outputs/ Re: language bias study
+│ └── final_report.md Re: language bias study
+│
+├── insights/ # Reflective and theoretical writings
+│ ├── README.md
+│ ├── multiple-layers-of-ai-safety.md
+│ ├── its-not-about-the-model.md
+│ ├── ai-hooks.md
+│ ├── maintaining-originality-with-ai.md
+│ ├── ethical-interface.md
+│ ├── mirror-in-the-room.md
+│ ├── projection-danger-or-opportunity.md
+│ ├── safety-regulations-bonding.md
+│ ├── llms-in-mental-health.md
+│ ├── more-than-personality.md
+│ ├── sycophancy-safety-literacy.md
+│ ├── unhealthy-ai.md
+│ ├── manifesto.md
+│ └── semantic-association.md
+│
+├── pressure-tests.md # Stability testing framework
+├── glossary.md # Shared definitions and terminology
+├── related-reading.md # Bibliography and references
+│
+└── python-projects/ # Experiments and visualization
+├── README.md
+└── small-language-model.py
+│
+├── pressure-tests.md                           # Stability testing framework
+├── glossary.md                                 # Shared definitions and terminology
+└── related-reading.md                          # Bibliography and references
+
+```
 ---
 
 ### Skills & Interests
