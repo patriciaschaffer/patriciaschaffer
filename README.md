@@ -216,10 +216,10 @@ root/
 ├── research/ # Studies, data, and formal analyses
 │ ├── README.md
 │ ├── ocean-breeze.md # persona stability and meta-awareness  
-│ ├── ocean-symbolic-language.md # semiotics, phenomenology, narrative, Lacan,
+│ ├── ocean-symbolic-language.md # semiotics, phenomenology, narrative, Lacan
 │ ├── ocean-symbolic-drift.md # dialogic cognition, language emergence
-| |
-| ├── matrices.md # Re: language bias study
+│ |
+│ ├── matrices.md # Re: language bias study
 │ ├── raw.md Re: language bias study
 │ ├── docs/ Re: language bias study
 │ │ ├── introduction.md 
