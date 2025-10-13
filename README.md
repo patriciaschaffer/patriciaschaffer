@@ -227,7 +227,6 @@ root/
 │ │ ├── analysis.md
 │ │ ├── appendix.md
 │ │ └── conclusions.md
-│ │
 │ └── outputs/ Re: language bias study
 │ └── final_report.md Re: language bias study
 │
