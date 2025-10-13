@@ -256,10 +256,6 @@ root/
 └── python-projects/ # Experiments and visualization
 ├── README.md
 └── small-language-model.py
-│
-├── pressure-tests.md                           # Stability testing framework
-├── glossary.md                                 # Shared definitions and terminology
-└── related-reading.md                          # Bibliography and references
 
 ```
 
