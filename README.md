@@ -35,7 +35,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 - 🤔 [seed-insights](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-insights/README.md): Essays on AI ethics, human-AI relationships and trust;
 - 🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT);
-- 🌱 Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-seed-lab).
+- 🌱 Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-the-seed-lab).
 
 ---
 
