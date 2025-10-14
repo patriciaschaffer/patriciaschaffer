@@ -27,7 +27,7 @@ Then, I've started playing with open source GPT-2 and [Mistral AI](https://githu
 
 ---
 
-## 🌱 [The Seed Lab](https://github.com/patriciaschaffer/seed-lab/README.md)
+## 🌱 [The Seed Lab](https://github.com/patriciaschaffer/seed-lab/tree/main/README.md)
 
 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment
   
