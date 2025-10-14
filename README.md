@@ -107,7 +107,7 @@ Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciasc
 
 _Thanks for reading (if you did) !_
 
-📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-reading.md) I've read and you may enjoy, too! #EasterEgg 🐣
+📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-readings.md) I've read and you may enjoy, too! #EasterEgg 🐣
 
 ---
 
