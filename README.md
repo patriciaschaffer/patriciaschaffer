@@ -38,7 +38,7 @@ Then, I've started playing with open source GPT-2 and [Mistral AI](https://githu
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/gradio/README.md)
 
 
-🕵️‍♀️ [seed-observations][seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md)
+🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md)
 
 - [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
