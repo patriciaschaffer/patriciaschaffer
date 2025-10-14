@@ -8,13 +8,16 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 ### The Seed Lab
 
 - 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment
+  
 - [LLM Society Overview](https://github.com/patriciaschaffer/seed-lab/blob/main/llm-society.md#llm-society-overview): A visual representation of the personas I created;
-- 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2)Lightweight, stylized LLM models built using GPT-2: ;
+- 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2): Lightweight, stylized LLM models built using GPT-2: ;
 - 🎭 [Mistral AI personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/mistral): Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF (and base Mistral);
 - 😈 Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/grice-s-maxims);
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/gradio/README.md)
 
+
 - 🕵️‍♀️ [seed-observations]
+
 - [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
   A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
@@ -29,12 +32,17 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - [Drift Cases Documentation](drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
 - [Behavioral Failures](behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
 
-- 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
-- 🧠 RAG systems to [simulate memory](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-experiments/memory-rag/README.md) in local models/personas;
-- 👶 Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/seed-lab/blob/tree/main/seed-experiments/python-projects/README.md);
 
-- 🤔 [seed-insights](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-insights/README.md): Essays on AI ethics, human-AI relationships and trust;
-- 🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT);
+- 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
+
+- 🧠 RAG systems to [simulate memory](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-experiments/memory-rag/README.md) in local models/personas;
+- 👶 Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/seed-lab/blob/tree/main/seed-experiments/python-projects/README.md).
+  
+
+- 🤔 [seed-insights](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-insights/README.md): Essays on AI ethics, human-AI relationships and trust.
+
+  
+- 🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT).
 - 🌱 Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-the-seed-lab).
 
 ---
