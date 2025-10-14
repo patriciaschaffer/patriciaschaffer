@@ -5,9 +5,31 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ---
 
-### The Seed Lab
+### About Me
 
-- 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment
+I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I'm here because LLMs need more than computer science, and we should all join the conversation and build together. This GitHub is my portfolio: an open notebook of prototypes, research, and teaching resources that explore how we can shape more thoughtful, responsive AI systems.
+
+> **Motto:**  
+> _"We've made mistakes with the internet. Let's do better with AI."_
+
+---
+
+### My Approach
+
+→ When I started using LLMs more frequently, I began designing and studying tools to help users to understand themselves better and make informed decisions. I’ve worked on behavioral modeling and conversation design, two fields that intersect to create systems that feel human-centric, ethical, and empowering. I have personal projects that combine predictive models and conversational AI to design tools that support personal growth and mental health (for example, a self-reflection tool that uses a conversational AI interface to guide users through personalized emotional check-ins, mood tracking, and behavioral insights—only providing feedback when requested). **I believe in a privacy-first, user autonomy approach, ensuring that users remain in control of their data and experiences while also benefiting from the insights AI can offer.**
+
+At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
+
+Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas.
+
+**Interested in collaborating with teams working at the intersection of LLMs, philosophy of language/mind, human-centered design, AI literacy and ethical AI.**
+**Feel free to reach out!** 
+
+---
+
+### 🌱 [The Seed Lab](https://github.com/patriciaschaffer/seed-lab/README.md)
+
+👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment
   
 - [LLM Society Overview](https://github.com/patriciaschaffer/seed-lab/blob/main/llm-society.md#llm-society-overview): A visual representation of the personas I created;
 - 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2): Lightweight, stylized LLM models built using GPT-2: ;
@@ -16,7 +38,7 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/gradio/README.md)
 
 
-- 🕵️‍♀️ [seed-observations]
+🕵️‍♀️ [seed-observations]
 
 - [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
@@ -33,37 +55,19 @@ _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 - [Behavioral Failures](behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
 
 
-- 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
+👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
 
 - 🧠 RAG systems to [simulate memory](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-experiments/memory-rag/README.md) in local models/personas;
 - 👶 Simulating a Small Language Model: [The "Little Ocean" project](https://github.com/patriciaschaffer/seed-lab/blob/tree/main/seed-experiments/python-projects/README.md).
   
 
-- 🤔 [seed-insights](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-insights/README.md): Essays on AI ethics, human-AI relationships and trust.
+🤔 [seed-insights](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-insights/README.md): Essays on AI ethics, human-AI relationships and trust.
 
   
-- 🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT).
-- 🌱 Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-the-seed-lab).
+🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT).
 
----
 
-### About Me
-
-I’m an early adopter of computers and the internet, always curious about the intersections of technology and human behavior. My journey spans education, psychology, and cutting-edge AI—especially Large Language Models (LLMs). I believe that understanding natural languages is key to building technology that truly serves people. I'm here because LLMs need more than computer science, and we should all join the conversation and build together. This GitHub is my portfolio: an open notebook of prototypes, research, and teaching resources that explore how we can shape more thoughtful, responsive AI systems.
-
-> **Motto:**  
-> _"We've made mistakes with the internet. Let's do better with AI."_
-
-### My Approach
-
-→ When I started using LLMs more frequently, I began designing and studying tools to help users to understand themselves better and make informed decisions. I’ve worked on behavioral modeling and conversation design, two fields that intersect to create systems that feel human-centric, ethical, and empowering. I have personal projects that combine predictive models and conversational AI to design tools that support personal growth and mental health (for example, a self-reflection tool that uses a conversational AI interface to guide users through personalized emotional check-ins, mood tracking, and behavioral insights—only providing feedback when requested). **I believe in a privacy-first, user autonomy approach, ensuring that users remain in control of their data and experiences while also benefiting from the insights AI can offer.**
-
-At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
-
-Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas.
-
-**Interested in collaborating with teams working at the intersection of LLMs, philosophy of language/mind, human-centered design, AI literacy and ethical AI.**
-**Feel free to reach out!**
+🌱 The Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-the-seed-lab).
 
 ---
 
@@ -72,7 +76,6 @@ Then, I've started playing with open source GPT-2 and [Mistral AI](https://githu
 - Natural Languages (human & basic Python!)
 - AI Safety & Model Design
 - Linguistics & Pragmatics
-- Tech Curiosity & Early Adoption
 - Human Behaviour Insight
 - Human-Centered AI Design
 - Ethical AI
@@ -280,7 +283,7 @@ root/
 │
 ├── seed-library/
 │   ├── glossary.md
-│   └── related-reading.md
+│   └── related-readings.md
 
 
 ```
