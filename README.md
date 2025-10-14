@@ -22,12 +22,15 @@ At first, I deliberately worked with models designed for the end user, since mos
 
 Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas.
 
-**Interested in collaborating with teams working at the intersection of LLMs, philosophy of language/mind, human-centered design, AI literacy and ethical AI.**
-**Feel free to reach out!** 
+**Feel free to reach out if our interests overlap!** 
 
 ---
 
 ## 🌱 [The Seed Lab](https://github.com/patriciaschaffer/seed-lab/tree/main/README.md)
+
+A research workspace for studying LLM personas as mirrors of thought, language and interaction, symbolic drift, and emergent communication.
+
+---
 
 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment
   
@@ -38,7 +41,8 @@ Then, I've started playing with open source GPT-2 and [Mistral AI](https://githu
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/gradio/README.md)
 
 
-🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md)
+🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
+
 
 - [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
@@ -67,9 +71,14 @@ Then, I've started playing with open source GPT-2 and [Mistral AI](https://githu
 🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT).
 
 
-🌱 The Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-the-seed-lab).
+📚 [seed-library](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library): Glossary, curated readings, and foundational references.
 
 ---
+
+🌱 The Seed Lab Complete Repository [Structure](https://github.com/patriciaschaffer#repository-structure-for-the-seed-lab).
+
+A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-creation.
+
 
 ### Skills & Interests
 
@@ -84,10 +93,10 @@ Then, I've started playing with open source GPT-2 and [Mistral AI](https://githu
 
 ### Favorite Projects & Focus Areas
 
-- Interpretability/Explainability
-- Model Design – Crafting user-centered AI models
-- Prompt Design – Exploring the art and science of communicating with LLMs
-- Multidisciplinary LLM Work – Bridging tech, linguistics, and psychology to create end-user value
+- **Interpretability / Explainability (XAI)**  
+- **Model Design:** Building user-centered AI agents  
+- **Prompt Design:** The art and science of human–machine dialogue  
+- **Multidisciplinary LLM Work:** Bridging technology, linguistics, and psychology  
 
 ---
 
@@ -106,8 +115,6 @@ Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciasc
 ---
 
 _Thanks for reading (if you did) !_
-
-📚 By the way, if you like reading, here's some [stuff](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-readings.md) I've read and you may enjoy, too! #EasterEgg 🐣
 
 ---
 
