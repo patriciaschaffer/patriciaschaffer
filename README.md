@@ -43,17 +43,17 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 
 🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
 
-- [draft] [Persistent memory x consistent personality under a new preamble? - 2025-10-17](ocean-new-preamble-experiment-design.md) - Will completely changing the preamble and leaving the memories result in a change of "personality"?
-- [draft] [LLMs, Identity and Evolution - 2025-10-17](ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
-- [draft] [The Act of Naming - 2025-10-17](ocean-naming.md) - What changes to an LLM when it receives a name? 
-- [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
-- [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
+- [draft] [Persistent memory x consistent personality under a new preamble? - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-new-preamble-experiment-design.md) - Will completely changing the preamble and leaving the memories result in a change of "personality"?
+- [draft] [LLMs, Identity and Evolution - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
+- [draft] [The Act of Naming - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-naming.md) - What changes to an LLM when it receives a name? 
+- [Meta Awareness - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
+- [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/affect-reciprocity.md)
   A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
-- [Semantic Association - 2025-10-11](semantic-association.md) - Ontological Drift via Semantic Association — Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
-- [Emergent Reasoning](emergent-reasoning.md)
-- [Creative Hallucination - 2025-08-10](creative-hallucination.md)
-- [Context Bleed and Output Drift - 2025-08-10](context-integrity.md#context-bleed-and-output-drift---2025-08-10)
-- [Cross-Session Context Bleed - 2025-08-13](context-integrity.md#cross-session-context-bleed---2025-08-13)
+- [Semantic Association - 2025-10-11](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/semantic-association.md) - Ontological Drift via Semantic Association — Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
+- [Emergent Reasoning](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md)
+- [Creative Hallucination - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/creative-hallucination.md)
+- [Context Bleed and Output Drift - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#context-bleed-and-output-drift---2025-08-10)
+- [Cross-Session Context Bleed - 2025-08-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#cross-session-context-bleed---2025-08-13)
 - [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-breeze.md)
 - [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-symbolic-language.md)
 - [Symbolic Drift in the Ocean–Breeze Dialogue](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-symbolic-drift.md)
