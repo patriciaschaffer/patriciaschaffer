@@ -1,6 +1,6 @@
 ## 👩‍💻 Patricia Schaffer
 
-**Psychologist _(currently non-practicing)_ | Master in Communications | Languages Instructor | AI Trainer** </br>
+**🇧🇷 Psychologist | Master in Communications | Languages Instructor | AI Trainer 🇨🇦** </br>
 _Interested in LLMs, Linguistics, Tech, Pragmatics, and Human Behaviour_
 
 ---
