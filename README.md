@@ -20,7 +20,7 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas.
+Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas. Lately, I've been curious to test other models, and have been using Gemma, Llama, Phi, Qwen, Minitron, Starling etc.
 
 **Feel free to reach out if our interests overlap!** 
 
