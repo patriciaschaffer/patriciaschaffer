@@ -34,7 +34,7 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 
 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment. New personas may show up at anytime, depending on creativity, free time, and use cases 😃
   
-- [LLM Society Overview](https://github.com/patriciaschaffer/seed-lab/blob/main/llm-society.md#llm-society-overview): A visual representation of the personas I created;
+- [LLM Society Overview](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/llm-society.md): A visual representation of the personas I created;
 - 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2): Lightweight, stylized LLM models built using GPT-2;
 - 🎭 [Mistral AI personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/mistral): Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF (and base Mistral);
 - 😈 Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/grice-s-maxims);
