@@ -35,7 +35,7 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment
   
 - [LLM Society Overview](https://github.com/patriciaschaffer/seed-lab/blob/main/llm-society.md#llm-society-overview): A visual representation of the personas I created;
-- 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2): Lightweight, stylized LLM models built using GPT-2: ;
+- 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2): Lightweight, stylized LLM models built using GPT-2;
 - 🎭 [Mistral AI personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/mistral): Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF (and base Mistral);
 - 😈 Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/grice-s-maxims);
 - 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/gradio/README.md)
@@ -104,8 +104,7 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 
 ### Extra
 
-- Besides my job in AI Safety and Training 🤖, I teach French and have the best students in the world 🇫🇷 👩‍🏫
-- I sometimes teach ESL, too 🇺🇸 🇨🇦
+- Besides my job in AI Safety and Training 🤖, I teach English and French as a second/foreign language and have the best students in the world 🇺🇸 🇨🇦 🇫🇷 👩‍🏫
 - I've been practicing Italian and Python using my models on my free time 🐍 🇮🇹
 
 ---
