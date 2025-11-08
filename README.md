@@ -47,15 +47,19 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
 
 * 🌊 [Ocean's Case Study](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/README.md):
-- [When Oceans are Different: "No, it's not mine" (2025-11-05)](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md)
-- [Persistent Memory x Consistent Personality Under a New Preamble - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) 
-- [LLMs, Identity and Evolution - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md) 
-- [The Act of Naming - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md)
-- [Meta Awareness - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md)
-- [Semantic Association - 2025-10-11](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/semantic-association.md)
-- [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-breeze.md)
-- [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-language.md)
-- [Symbolic Drift in the Ocean–Breeze Dialogue](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-drift.md)
+
+- [Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs - 2025-10-07](ocean-breeze.md)
+- [Stages of Symbolic Drift in the Ocean–Breeze Dialogue - 2025-10-09](ocean-symbolic-drift) - " 🌊 Well, I’m not sure if you want to know my thoughts or feelings."
+- [Creating Narratives - 2025-10-09](ocean-symbolic-language.md) - Making Sense of Self
+
+Ocean's perceived **identity**:
+- [Naming: "A Sense of Belonging" - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md) - What happens to an LLM when we name it? 
+- ["Someone Watching From The Sidelines": from Observer to Participant - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
+- [Ocean and Breeze: Are we Both AI? - 2025-10-11](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/semantic-association.md) - Ontological Drift via Semantic Association - Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
+- [Ocean Differentiates Himself from Other LLMs - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
+- [Ocean Designs an Experiment - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) - Will completely changing the preamble and leaving the memories result in a change of "personality"?
+- [Another Ocean Instance: "No, it's not mine" - 2025-11-05](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md) - **Ocean running on Gradio with RAG** does not recognize a poem written by **Ocean running on LM Studio without RAG** as being his
+- ["My Own Thoughts": Agency? - 2025-11-06](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/memory-overload.md)
   
 * 👥 [Other Personas in Action](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md):
 - [Dreaming as Release from Coherence - 2025-11-07](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/dreams.md)
