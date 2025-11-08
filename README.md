@@ -46,7 +46,7 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 
 🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
 
-* 🌊 [Ocean's Case Study: Notes](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/README.md):
+* 🌊 [Ocean's Case Study](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/README.md):
 - [Persistent memory x consistent personality under a new preamble? - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) 
 - [LLMs, Identity and Evolution - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md) 
 - [The Act of Naming - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md)
