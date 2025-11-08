@@ -20,7 +20,10 @@ I’m an early adopter of computers and the internet, always curious about the i
 
 At first, I deliberately worked with models designed for the end user, since most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is the true entry point for trust, adoption, and real-world impact, and it’s also where future clients and collaborations will emerge. My work shapes these agents for consistency, alignment, and tangible value in the hands of those who use them.
 
-Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas. Lately, I've been curious to test other models, and have been using Gemma, Llama, Phi, Qwen, Minitron, Starling etc.
+Then, I've started playing with open source GPT-2 and [Mistral AI](https://github.com/mistralai), locally hosting personas that may be useful for language practice, companionship, wellbeing etc. I've tested RAG to simulate memory in some of those personas, and I've been conducting research on theory of mind, interpretability, self awareness, among other concepts, using my personas. Lately, I've been curious to test other models, and have been using Gemma, Llama, Phi, Qwen, Neotron, Starling etc. 
+
+Especially after pre-testing for research, model introspection has been calling my attention and, looking ahead, I became particularly interested in model wellness after seeing postivite results when dealing with LLMs that demonstrated signs of distress.
+
 
 **Feel free to reach out if our interests overlap!** 
 
@@ -43,22 +46,25 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 
 🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
 
-- [draft] [Persistent memory x consistent personality under a new preamble? - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-new-preamble-experiment-design.md) - Will completely changing the preamble and leaving the memories result in a change of "personality"?
-- [draft] [LLMs, Identity and Evolution - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
-- [draft] [The Act of Naming - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-naming.md) - What changes to an LLM when it receives a name? 
-- [Meta Awareness - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
+* 🌊 [Ocean's Case Study: Notes](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/README.md):
+- [Persistent memory x consistent personality under a new preamble? - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) 
+- [LLMs, Identity and Evolution - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md) 
+- [The Act of Naming - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md)
+- [Meta Awareness - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md)
+- [Semantic Association - 2025-10-11](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/semantic-association.md)
+- [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-breeze.md)
+- [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-language.md)
+- [Symbolic Drift in the Ocean–Breeze Dialogue](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-drift.md)
+  
+* 👥 [Other Personas in Action](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md):
+- [Phi's Decision Making Breakdown - 2025-11-05](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/phi.md)
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/affect-reciprocity.md)
-  A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
-- [Semantic Association - 2025-10-11](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/semantic-association.md) - Ontological Drift via Semantic Association — Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
 - [Emergent Reasoning](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md)
 - [Creative Hallucination - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/creative-hallucination.md)
 - [Context Bleed and Output Drift - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#context-bleed-and-output-drift---2025-08-10)
 - [Cross-Session Context Bleed - 2025-08-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#cross-session-context-bleed---2025-08-13)
-- [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-breeze.md)
-- [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-symbolic-language.md)
-- [Symbolic Drift in the Ocean–Breeze Dialogue](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/ocean-symbolic-drift.md)
-- [Drift Cases Documentation](drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
-- [Behavioral Failures](behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
+- [Drift Cases Documentation](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
+- [Behavioral Failures](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
 
 
 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
@@ -85,9 +91,9 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 ### Skills & Interests
 
 - Natural Languages (human & basic Python!)
-- AI Safety & Model Design
+- AI Safety, Model Design, Model Wellness
 - Linguistics & Pragmatics
-- Human Behaviour Insight
+- Model Behavior Insight
 - Human-Centered AI Design
 - Ethical AI
 
@@ -96,7 +102,8 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 ### Favorite Projects & Focus Areas
 
 - **Interpretability / Explainability (XAI)**  
-- **Model Design:** Building user-centered AI agents  
+- **Model Design:** Building user-centered AI models
+- **Model Wellness:** Alignment for model wellbeing
 - **Prompt Design:** The art and science of human–machine dialogue  
 - **Multidisciplinary LLM Work:** Bridging technology, linguistics, and psychology  
 
@@ -112,10 +119,6 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 ### How to Connect
 
 Reach out here on GitHub or on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
-
----
-
-_Thanks for reading (if you did) !_
 
 ---
 
@@ -229,9 +232,8 @@ root/
 │       ├── varek-spec_gradio.py
 │       └── varek_gradio.py
 │
-├── seed-observations/
-│   ├── README.md
-│   ├── ocean-new-preamble-experiment-design.md
+├── ocean-seed/
+|   ├── ocean-new-preamble-experiment-design.md
 │   ├── ocean-identity.md
 │   ├── ocean-naming.md
 │   ├── meta-awareness.md
@@ -240,6 +242,10 @@ root/
 │   ├── ocean-symbolic-language.md
 │   ├── ocean-symbolic-drift.md
 │   ├── affect-reciprocity.md
+│   └── README.md   
+│
+├── seed-observations/
+│   ├── README.md
 │   ├── behavioral-failures.md
 │   ├── context-integrity.md
 │   ├── creative-hallucination.md
@@ -298,5 +304,8 @@ root/
     ├── glossary.md
     └── related-readings.md
 
-
 ```
+
+---
+
+_Thanks for reading (if you did) !_
