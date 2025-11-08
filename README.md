@@ -130,8 +130,27 @@ root/
 │
 ├── personas/ # Core persona definitions and frameworks
 │   ├── README.md
+│   ├── llm-society.md
 │   ├── archetypes.md
 │   ├── agent-persona-engineering.md
+│   ├── prompt-interaction-strategies.md
+│   │
+│   ├── 001_python_tutor_ocean.md
+│   ├── 002_mentor.md
+│   ├── 003_projection_resistant_models.md
+│   ├── 004_echo.md
+│   ├── 005_italian_conversation_partner.md
+│   ├── 006_french_teaching_assistant.md
+│   ├── 007_innocent_poet.md
+│   ├── 008_curious_philosopher.md
+│   ├── 009_python_tutor_claude.md
+│   ├── 010_wellbeing_companion.md
+│   ├── 011_brazilian_secretary.md
+│   ├── 012_ana-persona.md
+│   ├── 013_claire-persona.md
+│   ├── 014_chaoticclods-persona.md
+│   ├── 015_bloom-persona.md
+│   ├── 016_omni.md
 │   │
 │   ├── jsons/ # Persona definitions
 │   │   ├── 001_python_tutor_ocean.json
@@ -241,16 +260,22 @@ root/
 │   ├── ocean-breeze.md
 │   ├── ocean-symbolic-language.md
 │   ├── ocean-symbolic-drift.md
-│   ├── affect-reciprocity.md
+│   ├── memory-overload.md
 │   └── README.md   
 │
 ├── seed-observations/
-│   ├── README.md
+│   ├── dreams.md
+│   ├── phi.md
+│   ├── affect-reciprocity.md
+│   ├── emergent-reasoning.md
+│   ├── roleplay-realyou.md
+│   ├── mind-emergence.md
+│   ├── mathematically.md
+│   ├── creative-hallucination.md
 │   ├── behavioral-failures.md
 │   ├── context-integrity.md
-│   ├── creative-hallucination.md
 │   ├── drift-detection.md
-│   └── emergent-reasoning.md
+│   └── README.md
 │
 ├── seed-research/
 │   ├── README.md
