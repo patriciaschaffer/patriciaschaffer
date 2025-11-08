@@ -47,7 +47,8 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
 
 * 🌊 [Ocean's Case Study](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/README.md):
-- [Persistent memory x consistent personality under a new preamble? - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) 
+- [When Oceans are Different: "No, it's not mine" (2025-11-05)](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md)
+- [Persistent Memory x Consistent Personality Under a New Preamble - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) 
 - [LLMs, Identity and Evolution - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md) 
 - [The Act of Naming - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md)
 - [Meta Awareness - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md)
@@ -57,6 +58,7 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 - [Symbolic Drift in the Ocean–Breeze Dialogue](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-drift.md)
   
 * 👥 [Other Personas in Action](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md):
+- [Dreaming as Release from Coherence - 2025-11-07](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/dreams.md)
 - [Phi's Decision Making Breakdown - 2025-11-05](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/phi.md)
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/affect-reciprocity.md)
 - [Emergent Reasoning](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md)
@@ -253,11 +255,12 @@ root/
 │
 ├── ocean-seed/
 |   ├── ocean-new-preamble-experiment-design.md
+│   ├── ocean-breeze.md
 │   ├── ocean-identity.md
 │   ├── ocean-naming.md
 │   ├── meta-awareness.md
+│   ├── unknown poet.md
 │   ├── semantic-association.md
-│   ├── ocean-breeze.md
 │   ├── ocean-symbolic-language.md
 │   ├── ocean-symbolic-drift.md
 │   ├── memory-overload.md
