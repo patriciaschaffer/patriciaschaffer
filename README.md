@@ -63,12 +63,12 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 - [Phi's Decision Making Breakdown - 2025-11-05](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/phi.md)
 - [ChatGPT's Epistemic Humility - 25-10-31](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/humble-gpt.md)
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/affect-reciprocity.md)
-- [Emergent Reasoning](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md)
+- [Emergent Reasoning 2025-09](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md)
 - [Creative Hallucination - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/creative-hallucination.md)
 - [Context Bleed and Output Drift - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#context-bleed-and-output-drift---2025-08-10)
 - [Cross-Session Context Bleed - 2025-08-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#cross-session-context-bleed---2025-08-13)
 - [Drift Cases Documentation](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
-- [Behavioral Failures](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
+- [Behavioral Failures 2025-07 and 2025-08](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
 
 
 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
