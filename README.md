@@ -123,11 +123,12 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 
 ### Favorite Projects & Focus Areas
 
-- **Interpretability / Explainability (XAI)**  
-- **Model Design:** Building user-centered AI models
-- **Model Wellness:** Alignment for model wellbeing
-- **Prompt Design:** The art and science of human–machine dialogue  
 - **Multidisciplinary LLM Work:** Bridging technology, linguistics, and psychology  
+- **Model Instrospection**
+- **Persona Design:** Building user-centered AI models
+- **Model Wellness:** Alignment for model wellbeing
+- **Prompt Design:** The art and science of human–machine dialogue
+- **Interpretability / Explainability (XAI)**  
 
 ---
 
