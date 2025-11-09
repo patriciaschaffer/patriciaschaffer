@@ -320,7 +320,6 @@ root/
 │       └── final_report.md
 │
 ├── seed-insights/
-│   ├── README.md
 │   ├── multiple-layers-of-ai-safety.md
 │   ├── its-not-about-the-model.md
 │   ├── ai-hooks.md
@@ -334,7 +333,7 @@ root/
 │   ├── sycophancy-safety-literacy.md
 │   ├── unhealthy-ai.md
 │   ├── manifesto.md
-│   └── semantic-association.md
+│   └── README.md
 │
 ├── seed-experiments/
 │   ├── README.md
