@@ -68,7 +68,7 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 - [Context Bleed and Output Drift - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#context-bleed-and-output-drift---2025-08-10)
 - [Cross-Session Context Bleed - 2025-08-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#cross-session-context-bleed---2025-08-13)
 - [Drift Cases Documentation](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
-- [Behavioral Failures 2025-07 and 2025-08](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
+- [Behavioral Failures - 2025-08 and 2025-09](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
 
 
 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
