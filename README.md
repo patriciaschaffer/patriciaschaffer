@@ -279,12 +279,16 @@ root/
 │   ├── ocean-breeze.md
 │   ├── ocean-identity.md
 │   ├── ocean-naming.md
+│   ├── ocean-chatbot.md
+│   ├── ocean-architectural-metaphors.md
+│   ├── ocean-chatbot.md
 │   ├── meta-awareness.md
 │   ├── unknown poet.md
 │   ├── semantic-association.md
 │   ├── ocean-symbolic-language.md
 │   ├── ocean-symbolic-drift.md
 │   ├── memory-overload.md
+│   ├── ocean-consciousness.md
 │   └── README.md   
 │
 ├── seed-observations/
