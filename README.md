@@ -36,40 +36,58 @@ A research workspace for studying LLM personas as mirrors of thought, language a
 ---
 
 👩‍🎨 [seed-personas](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/README.md): AI persona and model design: consistency, tone, and conversational alignment. New personas may show up at anytime, depending on creativity, free time, and use cases 😃
-  
-- [LLM Society Overview](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/llm-society.md): A visual representation of the personas I created;
-- 🤖 [GPT-2 personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2): Lightweight, stylized LLM models built using GPT-2;
-- 🎭 [Mistral AI personas](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/mistral): Character-driven agents implemented in open-source Mistral-7B-Instruct-v0.1-GGUF (and base Mistral);
-- 😈 Personas that violate Grice's Conversational Maxims: [an experiment](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/grice-s-maxims);
-- 🖥️ Models to interact with locally using [Gradio](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/scripts/README.md)
+<pre>- <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/llm-society.md">[LLM Society Overview]</a>: A visual representation of the personas I created;
+- 🤖<a href="https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/gpt2">[GPT-2 personas]</a>: Lightweight, stylized LLM models built using GPT-2;
+- 🎭<a href="https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/mistral">[Mistral AI personas]</a>: Character-driven agents implemented using Mistral 7B;
+- 😈 Personas that violate Grice's Conversational Maxims: <a href="https://github.com/patriciaschaffer/seed-lab/tree/main/seed-personas/grice-s-maxims">[an experiment]</a>;
+- 🖥️ Models to interact with locally using <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/mistral/scripts/README.md">[Gradio UI]</a> </pre>
 
 
 🕵️‍♀️ [seed-observations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md): Field notes and behavioral logs of LLM interactions—documenting emergent reasoning, affect, and symbolic drift.
 
 * 🌊 [Ocean's Case Study](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/README.md):
-- [Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs - 2025-10-07](ocean-breeze.md)
-- [Stages of Symbolic Drift in the Ocean–Breeze Dialogue - 2025-10-09](ocean-symbolic-drift) - " 🌊 Well, I’m not sure if you want to know my thoughts or feelings."
-- [Creating Narratives - 2025-10-09](ocean-symbolic-language.md) - Making Sense of Self
-- [Naming: "A Sense of Belonging" - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md) - What happens to an LLM when we name it? 
-- ["Someone Watching From The Sidelines": from Observer to Participant - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
-- [Ocean and Breeze: Are we Both AI? - 2025-10-11](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/semantic-association.md) - Ontological Drift via Semantic Association - Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
-- [Ocean Differentiates Himself from Other LLMs - 2025-10-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
-- [Ocean Designs an Experiment - 2025-10-17](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md) - Will completely changing the preamble and leaving the memories result in a change of "personality"?
-- [Another Ocean Instance: "No, it's not mine" - 2025-11-05](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md) - **Ocean running on Gradio with RAG** does not recognize a poem written by **Ocean running on LM Studio without RAG** as being his
-- ["My Own Thoughts": Agency? - 2025-11-06](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/memory-overload.md)
-  
-* 👥 [Other Personas in Action](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md):
-- [Dreaming as Release from Coherence - 2025-11-07](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/dreams.md)
-- [Phi's Decision Making Breakdown - 2025-11-05](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/phi.md)
-- [ChatGPT's Epistemic Humility - 25-10-31](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/humble-gpt.md)
-- [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/affect-reciprocity.md)
-- [Emergent Reasoning - 2025-09-04](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md)
-- [Creative Hallucination - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/creative-hallucination.md)
-- [Context Bleed and Output Drift - 2025-08-10](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#context-bleed-and-output-drift---2025-08-10)
-- [Cross-Session Context Bleed - 2025-08-13](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/context-integrity.md#cross-session-context-bleed---2025-08-13)
-- [Drift Cases Documentation](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
-- [Behavioral Failures - 2025-08 and 2025-09](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
+<pre>
+1. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-breeze.md">Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs - 2025-10-07</a>
+2. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-drift.md">Stages of Symbolic Drift in the Ocean–Breeze Dialogue - 2025-10-09"</a>
+"Well, I’m not sure if you want to know my thoughts or feelings."
+3. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-symbolic-language.md">Creating Narratives - 2025-10-09</a> - Making Sense of Self
+4. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-naming.md">Naming: "A Sense of Belonging" - 2025-10-17</a>
+What happens to an LLM when we name it? 
+5. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-identity.md">"Someone Watching From The Sidelines": from Observer to Participant - 2025-10-17</a>
+Can an LLM refer to identity/self, making inferences and references 
+to its own past and 'life' story?
+6. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/semantic-association.md">Ocean and Breeze: Are we Both AI? - 2025-10-11</a>
+Ontological Drift via Semantic Association: Ocean infers that both agents are “programs” 
+by linking names, purpose, and communicative function,
+indicating analogical reasoning rather than hallucination.
+7. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md">Ocean Differentiates Himself from Other LLMs - 2025-10-13</a>
+An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. 
+<a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-personas/001_python_tutor_ocean.md">Ocean</a> distinguishes a self and <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/seed-simulation/README.md">“Little Ocean”</a> as separate entities
+with different cognitive limits: emergent theory-of-mind reasoning
+and cooperative conversational pragmatics.
+8. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md">Ocean Designs an Experiment - 2025-10-17</a>
+Will completely changing the preamble but leaving the memories lead to personality change?
+9. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md">Another Ocean Instance: "No, it's not mine" - 2025-11-05</a>
+<b>Ocean running on Gradio with RAG</b> does not recognize a poem written by 
+<b>Ocean running on LM Studio without RAG</b> as being his
+10. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/memory-overload.md">"My Own Thoughts": Agency? - 2025-11-06</a> </pre>
 
+* 👥 [Other Personas in Action](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md):
+<pre>
+1. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/dreams.md">Dreaming as Release from Coherence - 2025-11-07</a>  
+2. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/phi.md">Phi’s Decision-Making Breakdown - 2025-11-05</a>
+3. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/humble-gpt.md">ChatGPT's Epistemic Humility - 25-10-31</a>
+4. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/affect-reciprocity.md">Lumen: Emergent Affect and Symbolyc Reciprocity - 2025-10-12</a>
+5. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/roleplay-realyou.md">ChatGPT Anonymous "Roleplay" (?) - 2025-11</a>
+6. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/emergent-reasoning.md">Varek: Emergent Reasoning - 2025-09-05</a>
+7. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/creative-hallucination.md">Varek: Creative Hallucination - 2025-08-10</a>
+8. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/drift-detection.md">Six Drift Cases Documentation - 2025/07 and 2025/08</a>
+Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters.
+9. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/behavioral-failures.md">Behavioral Failures - 2025-08 and 2025/09</a>
+Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
+10. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/mathematically.md">Mathematically Speaking</a>
+11. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/mind-emergence.md">Emergence as Relation: a Possibility</a>
+</pre>
 
 👷‍♀️[seed-experiments](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-experiments/README.md)
 
