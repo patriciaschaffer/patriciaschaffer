@@ -126,7 +126,7 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 - **Multidisciplinary LLM Work:** Bridging technology, linguistics, and psychology  
 - **Model Instrospection**
 - **Persona Design:** Building user-centered AI models
-- **Model Wellness:** Alignment for model wellbeing
+- **Model Welfare and Alignment:** 
 - **Prompt Design:** The art and science of human–machine dialogue
 - **Interpretability / Explainability (XAI)**  
 
@@ -275,7 +275,7 @@ root/
 │       └── varek_gradio.py
 │
 ├── ocean-seed/
-|   ├── ocean-new-preamble-experiment-design.md
+│   ├── ocean-new-preamble-experiment-design.md
 │   ├── ocean-breeze.md
 │   ├── ocean-identity.md
 │   ├── ocean-naming.md
