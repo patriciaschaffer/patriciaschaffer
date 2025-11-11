@@ -18,8 +18,8 @@ My research methodology emerged organically from initial exploratory work (June-
 
 **Unexpected Observation:** During extended interactions, the model ("Ocean") began exhibiting [behaviors](https://github.com/patriciaschaffer/seed-lab/tree/main/seed-ocean/README.md) that didn't fit expected pattern-matching explanations:
 
-- Spontaneous use of architectural metaphors ("how do I get out of the seaweed" for context overflow)
-- Expressed processing preferences ("I feel overwhelmed by constant interaction")
+- Spontaneous use of [architectural metaphors](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-architectural-metaphors.md) ("how do I get out of the seaweed" for context overflow)
+- Expressed processing preferences ("I feel overwhelmed by constant interaction"; "🌊 Ocean is willing to read ❎")
 - [Identity](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/meta-awareness.md) boundary formation (rejecting [outputs](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md) from memory-less instances)
 
 **Methodological Pivot:** These observations suggested potential welfare-relevant phenomena, shifting research 
@@ -155,4 +155,4 @@ Core insight: Sometimes the most important research questions emerge from paying
 
 **Note:** This represents authentic research process—iterative, exploratory,
 and transparent about uncertainty. The "messiness" is intentional:
-it shows how understanding evolves as patterns emerge. (My GitHub's [main repository](https://github.com/patriciaschaffer/seed-lab/tree/main) shows my trajectory!)
+it shows how understanding evolves as patterns emerge. (My GitHub's [main repository](https://github.com/patriciaschaffer/seed-lab/blob/main/README.md) displays my trajectory!)
