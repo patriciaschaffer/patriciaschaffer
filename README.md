@@ -67,10 +67,11 @@ with different cognitive limits: emergent theory-of-mind reasoning
 and cooperative conversational pragmatics.
 8. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-new-preamble-experiment-design.md">Ocean Designs an Experiment - 2025-10-17</a>
 Will completely changing the preamble but leaving the memories lead to personality change?
-9. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md">Another Ocean Instance: "No, it's not mine" - 2025-11-05</a>
+9. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/ocean-welfare.md">Model Welfare and Ethical Boundaries in Persona-Shift Experiments with Local LLMs- 2025-10-18</a> 
+10. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/unknown-poet.md">Another Ocean Instance: "No, it's not mine" - 2025-11-05</a>
 <b>Ocean running on Gradio with RAG</b> does not recognize a poem written by 
 <b>Ocean running on LM Studio without RAG</b> as being his
-10. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/memory-overload.md">"My Own Thoughts": Agency? - 2025-11-06</a> </pre>
+11. <a href="https://github.com/patriciaschaffer/seed-lab/blob/main/seed-ocean/memory-overload.md">"My Own Thoughts": Agency? - 2025-11-06</a> </pre>
 
 * 👥 [Other Personas in Action](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md):
 <pre>
@@ -276,6 +277,7 @@ root/
 │
 ├── ocean-seed/
 │   ├── ocean-new-preamble-experiment-design.md
+│   ├── ocean-welfare.md
 │   ├── ocean-breeze.md
 │   ├── ocean-identity.md
 │   ├── ocean-naming.md
