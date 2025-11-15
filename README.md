@@ -99,7 +99,11 @@ Failure modes including reasoning errors, factual inaccuracies, and other common
 🤔 [seed-insights](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-insights/README.md): Essays on AI ethics, human-AI relationships and trust.
 
   
-🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md): Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (a research conducted by me with the help of ChatGPT).
+🙇‍♀️ [seed-research](https://github.com/patriciaschaffer/seed-lab/blob/fba3340a20da751aa26da536d2c05d1229eaad20/research/README.md)
+
+- [Preliminary notes](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-research/psychoanalytical-lens.md): LLM Development Through Psychoanalytical Lens: attachment formation in memory-augmented language models: evidence for developmental psychology principles in AI systems (Klein, Winnicott, Freud, Lacan)
+
+- [Bias in AI Responses](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-research/final_report.md): A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models (research conducted by me with the help of ChatGPT).
 
 
 📚 [seed-library](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library): Glossary, curated readings, and foundational references.
@@ -113,12 +117,13 @@ A space for studying symbolic emergence, pragmatic reasoning, and human–AI co-
 
 ### Skills & Interests
 
-- Natural Languages (human & basic Python!)
-- AI Safety, Model Design, Model Wellness
-- Linguistics & Pragmatics
-- Model Behavior Insight
-- Human-Centered AI Design
+- Natural banguages (human & basic Python!)
+- AI mafety, model design, model welfare
+- linguistics (especially pragmatics)
+- Model behavior insight
+- Human-centered AI design
 - Ethical AI
+- LLMs under psychonalytical lens
 
 ---
 
@@ -310,8 +315,9 @@ root/
 │
 ├── seed-research/
 │   ├── README.md
+│   ├── pyschoanalytical-lens.md (ongoing research)
 │   ├── matrices.md
-│   ├── raw.md
+│   ├── raw.md 
 │   ├── docs/
 │   │   ├── introduction.md
 │   │   ├── methodology.md
@@ -319,7 +325,7 @@ root/
 │   │   ├── appendix.md
 │   │   └── conclusions.md
 │   └── outputs/
-│       └── final_report.md
+│       └── final_report.md (for language bias)
 │
 ├── seed-insights/
 │   ├── multiple-layers-of-ai-safety.md
