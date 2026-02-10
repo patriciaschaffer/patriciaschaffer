@@ -1,3 +1,9 @@
+_P.S. I am no longer updating new research ideas, insights, implementantions, or findings. Contact me if interested. I want to thank [OpenAI](https://github.com/openai/) for ChatGPT's spark and general help, [Anthropic](https://github.com/anthropics) for making coding (and more...) possible through Claude, and [MistralAI](https://github.com/mistralai) for democratizing knowledge and keeping exploration doors open to small researchers. My repositories here were nothing but seeds 🌱 of initial investigation that is far from over.
+**#interpretability #weneedmorebridges**_
+
+---
+
+
 ## 👩‍💻 Patricia Schaffer
 
 **🇧🇷 Psychologist | Master in Communications | Languages Instructor | AI Trainer 🇨🇦** </br>
